@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "questions": {
+    "23": {
+      "optionTextById": {
+        "q-023-option-4": "RL3DX"
+      },
+      "sourceCleanupNote": "Removed OCR text from Figure 1 that was appended after the printed fourth option on handbook page 123."
+    },
+    "32": {
+      "optionTextById": {
+        "q-032-option-4": "Лицензию HAREC."
+      },
+      "sourceCleanupNote": "Removed OCR text from Figure 2 that was appended after the printed fourth option on handbook page 127."
+    },
+    "36": {
+      "correctOptionIndex": 2,
+      "answerMatchNote": "Guide wording has a grammatical typo; source option 3 is the same definition with corrected grammar."
+    },
+    "119": {
+      "correctOptionIndex": 0,
+      "answerMatchNote": "The source option contains the typo «реетранслятор»; the guide answer confirms option 1.",
+      "sourceReference": {
+        "document": "Справочник_КЭ.pdf",
+        "page": 148,
+        "sourceQuestionNumber": 119,
+        "explanationDocument": "radiolyubitel_2_category_guide_2026.pdf",
+        "explanationPage": 30
+      }
+    },
+    "191": {
+      "correctOptionIndex": 0,
+      "answerMatchNote": "The guide and source describe the same three loss paths with minor conjunction differences."
+    },
+    "201": {
+      "correctOptionIndex": 2,
+      "answerMatchNote": "The guide gives «U или E» while the official options contain U; source option 3 is the matching exam choice.",
+      "legalHistoricalNote": "В пособии правильный ответ дан как «U или E», а в исходном варианте ответа присутствует U. Для экзамена выбран вариант U."
+    },
+    "233": {
+      "correctOptionIndex": 1,
+      "answerMatchNote": "The guide contains the typo «Радиооаврора»; source option 2 has the corrected spelling."
+    },
+    "359": {
+      "correctOptionId": "q-359-option-3",
+      "answerMatchNote": "The source uses D < V < R. The previous normalizer discarded comparison operators and incorrectly treated D > V > R as an exact match."
+    }
+  }
+}

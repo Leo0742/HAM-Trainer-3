@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.build/
+.swiftpm/
+Build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# The two audited source PDFs and the required study figures are intentionally
+# versioned. Build products and caches remain local.

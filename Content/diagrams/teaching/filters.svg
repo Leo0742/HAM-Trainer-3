@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360">
+  <rect width="720" height="360" rx="24" fill="#F5F7FB"/><text x="36" y="48" font-family="-apple-system, sans-serif" font-size="24" font-weight="700" fill="#172033">Четыре базовых типа фильтров</text>
+  <g font-family="-apple-system, sans-serif" font-size="17" fill="#172033"><text x="75" y="95">ФНЧ</text><text x="255" y="95">ФВЧ</text><text x="435" y="95">Полосовой</text><text x="605" y="95">Режекторный</text></g>
+  <g fill="none" stroke="#5B6CFF" stroke-width="6">
+    <path d="M45 92 H105 C125 92 135 105 140 135 L160 210"/>
+    <path d="M225 210 H245 C260 210 270 195 278 155 C286 112 300 92 340 92"/>
+    <path d="M395 210 C415 210 425 190 432 135 C438 88 448 88 455 135 C462 190 472 210 490 210"/>
+    <path d="M565 92 C585 92 595 112 602 168 C608 215 618 215 625 168 C632 112 642 92 660 92"/>
+  </g>
+  <g stroke="#AAB2C3" stroke-width="2"><path d="M40 230 h130 M40 230 v-150"/><path d="M220 230 h130 M220 230 v-150"/><path d="M390 230 h130 M390 230 v-150"/><path d="M560 230 h130 M560 230 v-150"/></g>
+  <text x="36" y="334" font-family="-apple-system, sans-serif" font-size="17" fill="#4C5870">По горизонтали — частота, по вертикали — насколько сигнал проходит.</text>
+</svg>

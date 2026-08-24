@@ -1,0 +1,134 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		100000000000000000000001 /* AdaptiveReviewScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200000000000000000000001 /* AdaptiveReviewScheduler.swift */; };
+		100000000000000000000002 /* AppStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200000000000000000000002 /* AppStore.swift */; };
+		100000000000000000000003 /* HAMTrainerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200000000000000000000003 /* HAMTrainerApp.swift */; };
+		100000000000000000000004 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200000000000000000000004 /* MainView.swift */; };
+		100000000000000000000005 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200000000000000000000005 /* Models.swift */; };
+		100000000000000000000006 /* SnapshotCaptureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200000000000000000000006 /* SnapshotCaptureView.swift */; };
+		100000000000000000000007 /* StudyViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200000000000000000000007 /* StudyViews.swift */; };
+		100000000000000000000008 /* Content in Resources */ = {isa = PBXBuildFile; fileRef = 200000000000000000000008 /* Content */; };
+		100000000000000000000009 /* GlossaryViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20000000000000000000000C /* GlossaryViews.swift */; };
+		10000000000000000000000A /* CategoryProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20000000000000000000000D /* CategoryProfile.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		200000000000000000000001 /* AdaptiveReviewScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptiveReviewScheduler.swift; sourceTree = "<group>"; };
+		200000000000000000000002 /* AppStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStore.swift; sourceTree = "<group>"; };
+		200000000000000000000003 /* HAMTrainerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HAMTrainerApp.swift; sourceTree = "<group>"; };
+		200000000000000000000004 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		200000000000000000000005 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		200000000000000000000006 /* SnapshotCaptureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapshotCaptureView.swift; sourceTree = "<group>"; };
+		200000000000000000000007 /* StudyViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyViews.swift; sourceTree = "<group>"; };
+		200000000000000000000008 /* Content */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Content; sourceTree = "<group>"; };
+		200000000000000000000009 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20000000000000000000000A /* HAM Trainer 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HAM Trainer 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		20000000000000000000000B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		20000000000000000000000C /* GlossaryViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlossaryViews.swift; sourceTree = "<group>"; };
+		20000000000000000000000D /* CategoryProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryProfile.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		300000000000000000000001 /* Frameworks */ = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		400000000000000000000001 = {
+			isa = PBXGroup;
+			children = (
+				400000000000000000000002 /* HAMTrainer */,
+				200000000000000000000008 /* Content */,
+				20000000000000000000000B /* README.md */,
+				400000000000000000000003 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		400000000000000000000002 /* HAMTrainer */ = {
+			isa = PBXGroup;
+			children = (
+				20000000000000000000000D /* CategoryProfile.swift */,
+				200000000000000000000003 /* HAMTrainerApp.swift */,
+				200000000000000000000005 /* Models.swift */,
+				200000000000000000000001 /* AdaptiveReviewScheduler.swift */,
+				200000000000000000000002 /* AppStore.swift */,
+				200000000000000000000004 /* MainView.swift */,
+				200000000000000000000007 /* StudyViews.swift */,
+				20000000000000000000000C /* GlossaryViews.swift */,
+				200000000000000000000006 /* SnapshotCaptureView.swift */,
+				200000000000000000000009 /* Info.plist */,
+			);
+			path = HAMTrainer;
+			sourceTree = "<group>";
+		};
+		400000000000000000000003 /* Products */ = {isa = PBXGroup; children = (20000000000000000000000A /* HAM Trainer 3.app */,); name = Products; sourceTree = "<group>"; };
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		500000000000000000000001 /* HAMTrainer3 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 900000000000000000000002 /* Build configuration list for PBXNativeTarget "HAMTrainer3" */;
+			buildPhases = (700000000000000000000001 /* Sources */, 300000000000000000000001 /* Frameworks */, 700000000000000000000002 /* Resources */);
+			buildRules = ();
+			dependencies = ();
+			name = HAMTrainer3;
+			productName = HAMTrainer3;
+			productReference = 20000000000000000000000A /* HAM Trainer 3.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		600000000000000000000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {BuildIndependentTargetsInParallel = 1; LastSwiftUpdateCheck = 1600; LastUpgradeCheck = 1600; TargetAttributes = {500000000000000000000001 = {CreatedOnToolsVersion = 16.0; };};};
+			buildConfigurationList = 900000000000000000000001 /* Build configuration list for PBXProject "HAMTrainer" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = ru;
+			hasScannedForEncodings = 0;
+			knownRegions = (Base, ru, en);
+			mainGroup = 400000000000000000000001;
+			productRefGroup = 400000000000000000000003 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (500000000000000000000001 /* HAMTrainer3 */,);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		700000000000000000000002 /* Resources */ = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (100000000000000000000008 /* Content in Resources */,); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		700000000000000000000001 /* Sources */ = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (
+			100000000000000000000001 /* AdaptiveReviewScheduler.swift in Sources */,
+			100000000000000000000002 /* AppStore.swift in Sources */,
+			100000000000000000000003 /* HAMTrainerApp.swift in Sources */,
+			100000000000000000000004 /* MainView.swift in Sources */,
+			100000000000000000000005 /* Models.swift in Sources */,
+			100000000000000000000006 /* SnapshotCaptureView.swift in Sources */,
+			100000000000000000000007 /* StudyViews.swift in Sources */,
+			100000000000000000000009 /* GlossaryViews.swift in Sources */,
+			10000000000000000000000A /* CategoryProfile.swift in Sources */,
+		); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		800000000000000000000001 /* Debug */ = {isa = XCBuildConfiguration; buildSettings = {CLANG_ENABLE_MODULES = YES; MACOSX_DEPLOYMENT_TARGET = 14.0; SDKROOT = macosx; SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG; SWIFT_OPTIMIZATION_LEVEL = "-Onone"; SWIFT_VERSION = 6.0;}; name = Debug; };
+		800000000000000000000002 /* Release */ = {isa = XCBuildConfiguration; buildSettings = {CLANG_ENABLE_MODULES = YES; MACOSX_DEPLOYMENT_TARGET = 14.0; SDKROOT = macosx; SWIFT_COMPILATION_MODE = wholemodule; SWIFT_OPTIMIZATION_LEVEL = "-O"; SWIFT_VERSION = 6.0;}; name = Release; };
+		800000000000000000000003 /* Debug */ = {isa = XCBuildConfiguration; buildSettings = {ARCHS = arm64; CODE_SIGN_IDENTITY = "-"; CODE_SIGN_STYLE = Manual; COMBINE_HIDPI_IMAGES = YES; CURRENT_PROJECT_VERSION = 1; EXECUTABLE_NAME = HAMTrainer3; GENERATE_INFOPLIST_FILE = NO; INFOPLIST_FILE = HAMTrainer/Info.plist; LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks"; MACOSX_DEPLOYMENT_TARGET = 14.0; MARKETING_VERSION = 1.0; PRODUCT_BUNDLE_IDENTIFIER = local.hamtrainer3.app; PRODUCT_NAME = "HAM Trainer 3"; SWIFT_EMIT_LOC_STRINGS = YES; SWIFT_VERSION = 6.0;}; name = Debug; };
+		800000000000000000000004 /* Release */ = {isa = XCBuildConfiguration; buildSettings = {ARCHS = arm64; CODE_SIGN_IDENTITY = "-"; CODE_SIGN_STYLE = Manual; COMBINE_HIDPI_IMAGES = YES; CURRENT_PROJECT_VERSION = 1; EXECUTABLE_NAME = HAMTrainer3; GENERATE_INFOPLIST_FILE = NO; INFOPLIST_FILE = HAMTrainer/Info.plist; LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks"; MACOSX_DEPLOYMENT_TARGET = 14.0; MARKETING_VERSION = 1.0; PRODUCT_BUNDLE_IDENTIFIER = local.hamtrainer3.app; PRODUCT_NAME = "HAM Trainer 3"; SWIFT_COMPILATION_MODE = wholemodule; SWIFT_EMIT_LOC_STRINGS = YES; SWIFT_VERSION = 6.0;}; name = Release; };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		900000000000000000000001 /* Build configuration list for PBXProject "HAMTrainer" */ = {isa = XCConfigurationList; buildConfigurations = (800000000000000000000001 /* Debug */, 800000000000000000000002 /* Release */); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		900000000000000000000002 /* Build configuration list for PBXNativeTarget "HAMTrainer3" */ = {isa = XCConfigurationList; buildConfigurations = (800000000000000000000003 /* Debug */, 800000000000000000000004 /* Release */); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+/* End XCConfigurationList section */
+	};
+	rootObject = 600000000000000000000001 /* Project object */;
+}
