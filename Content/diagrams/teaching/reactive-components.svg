@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360">
+  <rect width="720" height="360" rx="24" fill="#F5F7FB"/>
+  <text x="36" y="48" font-family="-apple-system, sans-serif" font-size="24" font-weight="700" fill="#172033">Конденсатор, катушка и LC-контур</text>
+  <text x="48" y="100" font-family="-apple-system, sans-serif" font-size="19" font-weight="700" fill="#172033">Конденсатор C</text>
+  <line x1="70" y1="170" x2="150" y2="170" stroke="#172033" stroke-width="5"/><line x1="150" y1="120" x2="150" y2="220" stroke="#5B6CFF" stroke-width="7"/><line x1="175" y1="120" x2="175" y2="220" stroke="#5B6CFF" stroke-width="7"/><line x1="175" y1="170" x2="255" y2="170" stroke="#172033" stroke-width="5"/>
+  <text x="48" y="260" font-family="-apple-system, sans-serif" font-size="16" fill="#4C5870">Две обкладки и диэлектрик:</text><text x="48" y="284" font-family="-apple-system, sans-serif" font-size="16" fill="#4C5870">энергия электрического поля.</text>
+  <text x="410" y="100" font-family="-apple-system, sans-serif" font-size="19" font-weight="700" fill="#172033">Катушка L</text>
+  <path d="M390 170 h35 c0 -48 52 -48 52 0 c0 -48 52 -48 52 0 c0 -48 52 -48 52 0 h55" fill="none" stroke="#F05A47" stroke-width="6"/>
+  <text x="410" y="260" font-family="-apple-system, sans-serif" font-size="16" fill="#4C5870">Ток создаёт магнитное поле.</text><text x="410" y="284" font-family="-apple-system, sans-serif" font-size="16" fill="#4C5870">В LC энергия переходит C ↔ L.</text>
+  <path d="M300 310 C360 340 420 340 470 310" fill="none" stroke="#2FA86F" stroke-width="4"/><path d="M465 300 l18 10 l-17 12" fill="#2FA86F"/>
+</svg>

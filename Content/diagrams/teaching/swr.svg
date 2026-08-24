@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360">
+  <rect width="720" height="360" rx="24" fill="#F5F7FB"/><text x="36" y="48" font-family="-apple-system, sans-serif" font-size="24" font-weight="700" fill="#172033">КСВ: прямая и отражённая волны</text>
+  <rect x="45" y="135" width="140" height="85" rx="14" fill="#FFF" stroke="#5B6CFF" stroke-width="3"/><text x="115" y="170" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="18" fill="#172033">Передатчик</text><text x="115" y="197" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="15" fill="#4C5870">50 Ω</text>
+  <rect x="535" y="135" width="140" height="85" rx="14" fill="#FFF" stroke="#F2A93B" stroke-width="3"/><text x="605" y="170" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="18" fill="#172033">Антенна</text><text x="605" y="197" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="15" fill="#4C5870">нагрузка</text>
+  <line x1="185" y1="178" x2="535" y2="178" stroke="#AAB2C3" stroke-width="10"/>
+  <path d="M215 135 h260" stroke="#2FA86F" stroke-width="6"/><path d="M490 135 l-22 -12 v24 z" fill="#2FA86F"/><text x="300" y="115" font-family="-apple-system, sans-serif" font-size="17" fill="#2FA86F">прямая мощность</text>
+  <path d="M505 230 h-220" stroke="#F05A47" stroke-width="6"/><path d="M270 230 l22 -12 v24 z" fill="#F05A47"/><text x="315" y="262" font-family="-apple-system, sans-serif" font-size="17" fill="#F05A47">отражение при несогласовании</text>
+  <text x="36" y="334" font-family="-apple-system, sans-serif" font-size="17" fill="#4C5870">КСВ = 1 — идеальное согласование; рост КСВ означает больше отражённой мощности.</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360">
+  <rect width="720" height="360" rx="24" fill="#F5F7FB"/><text x="36" y="48" font-family="-apple-system, sans-serif" font-size="24" font-weight="700" fill="#172033">Полуволновой диполь: ток и напряжение</text>
+  <line x1="70" y1="185" x2="650" y2="185" stroke="#172033" stroke-width="8"/><circle cx="360" cy="185" r="10" fill="#F2A93B"/>
+  <path d="M70 185 C165 185 250 82 360 82 C470 82 555 185 650 185" fill="none" stroke="#F05A47" stroke-width="5"/>
+  <text x="248" y="74" font-family="-apple-system, sans-serif" font-size="17" fill="#F05A47">ток: максимум в центре</text>
+  <path d="M70 295 C165 295 250 198 360 198 C470 198 555 295 650 295" fill="none" stroke="#5B6CFF" stroke-width="5"/>
+  <text x="90" y="322" font-family="-apple-system, sans-serif" font-size="17" fill="#5B6CFF">напряжение: максимум на концах, минимум в центре</text>
+  <text x="36" y="350" font-family="-apple-system, sans-serif" font-size="17" fill="#4C5870">Полная длина ≈ λ/2; два плеча по ≈ λ/4.</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360">
+  <rect width="720" height="360" rx="24" fill="#F5F7FB"/><text x="36" y="48" font-family="-apple-system, sans-serif" font-size="24" font-weight="700" fill="#172033">Супергетеродин: сигнал → промежуточная частота</text>
+  <g font-family="-apple-system, sans-serif" font-size="16" text-anchor="middle" fill="#172033">
+    <rect x="30" y="135" width="105" height="70" rx="12" fill="#FFF" stroke="#5B6CFF" stroke-width="3"/><text x="82" y="176">Входной<tspan x="82" dy="20">фильтр</tspan></text>
+    <rect x="175" y="135" width="105" height="70" rx="12" fill="#FFF" stroke="#F05A47" stroke-width="3"/><text x="227" y="176">Смеситель</text>
+    <rect x="320" y="135" width="105" height="70" rx="12" fill="#FFF" stroke="#2FA86F" stroke-width="3"/><text x="372" y="166">Фильтр и<tspan x="372" dy="20">усилитель ПЧ</tspan></text>
+    <rect x="465" y="135" width="105" height="70" rx="12" fill="#FFF" stroke="#F2A93B" stroke-width="3"/><text x="517" y="176">Детектор</text>
+    <rect x="610" y="135" width="80" height="70" rx="12" fill="#FFF" stroke="#5B6CFF" stroke-width="3"/><text x="650" y="176">Звук</text>
+    <rect x="175" y="260" width="105" height="55" rx="12" fill="#FFF" stroke="#9A64D6" stroke-width="3"/><text x="227" y="294">Гетеродин</text>
+  </g>
+  <g stroke="#172033" stroke-width="4" fill="#172033"><path d="M135 170 h35"/><path d="M280 170 h35"/><path d="M425 170 h35"/><path d="M570 170 h35"/><path d="M227 260 v-48"/></g>
+  <text x="292" y="105" font-family="-apple-system, sans-serif" font-size="17" fill="#4C5870">fПЧ = |fсигнала − fгетеродина|</text>
+</svg>

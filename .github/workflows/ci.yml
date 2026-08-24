@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: macos-14
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build exact category-3 content
+        run: python3 Tools/build_content.py
+      - name: Validate bank, glossary, figure manifest, and assets
+        run: python3 Tools/validate_content.py
+      - name: Audit source answer matches
+        run: python3 Tools/audit_answer_matches.py
+      - name: Audit authored content and source hashes
+        run: python3 Tools/audit_content.py
+      - name: Verify reproducible generated files
+        run: git diff --exit-code -- Content ContentAuthored ContentRaw ContentOverrides docs
+      - name: Run Swift regression tests and scheduler simulation
+        run: Tools/run_tests.sh
+      - name: Build release app
+        run: Tools/build_app.sh

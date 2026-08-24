@@ -1,0 +1,69 @@
+{
+  "generatedOn": "reproducible",
+  "authoredSource": {
+    "file": "ContentAuthored/third-category-218-explanations.json",
+    "sha256": "c438938b5733be90b80eb87b2ec782c952bbff47378b54de9fc23647199044a1",
+    "checksumMatches": true,
+    "totalQuestions": 218,
+    "authoredEducationalRecords": 218,
+    "fallbackGeneratedEducationalRecords": 0,
+    "fallbackQuestionIds": [],
+    "unresolvedWrongOptionMappings": [],
+    "unresolvedGlossaryMappings": [],
+    "legacyProductionExplanationSources": [],
+    "manualSourceResolutions": {
+      "cleanTextToStableOptionId": [
+        23,
+        32
+      ],
+      "suppliedWrongMapRepairUsingExactAuthoredShortText": [],
+      "officialBankExtractionOrAnswerFix": [
+        119,
+        191,
+        201
+      ]
+    },
+    "method": "Authored means an exact record in the immutable checksum-verified ContentAuthored JSON. No generated fallback is counted or permitted."
+  },
+  "structural": {
+    "uniqueExamNumbers": 218,
+    "resolvedCorrectOptionIds": 218,
+    "unchangedOfficialStems": 218,
+    "unchangedOfficialOptionSets": 218
+  },
+  "answerMatching": {
+    "exact": 215,
+    "manual": 3,
+    "unresolvedFuzzy": 0,
+    "unresolved": []
+  },
+  "glossary": {
+    "entries": 127,
+    "authoredSource": "ContentAuthored/built-in-glossary-176.json",
+    "authoredSha256": "2d3902bb049064066bc71766405237ab7ab39cc7b2b123de249700a1230bc1d3",
+    "checksumMatches": true,
+    "authoredEducationalRecords": 127,
+    "identicalNormalizedShortAndFromZero": []
+  },
+  "assets": {
+    "examFigures": 4,
+    "teachingDiagrams": 7,
+    "missingAssets": [],
+    "unresolvedRequestedExamFigures": []
+  },
+  "sourceFiles": [
+    {
+      "file": "Справочник_КЭ.pdf",
+      "bytes": 1397332,
+      "sha256": "8108c82eb316069167a7ae3e525a9991637e2f547f12fbbde637e684dbad55d7",
+      "unchanged": true
+    },
+    {
+      "file": "radiolyubitel_2_category_guide_2026.pdf",
+      "bytes": 3652891,
+      "sha256": "163c01bded0c4b5cee92892948f15eab32b226f6f0bd0edc70f0beecd6317749",
+      "unchanged": true
+    }
+  ],
+  "failures": []
+}

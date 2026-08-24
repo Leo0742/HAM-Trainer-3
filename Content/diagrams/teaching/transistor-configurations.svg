@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360">
+  <rect width="720" height="360" rx="24" fill="#F5F7FB"/><text x="36" y="48" font-family="-apple-system, sans-serif" font-size="24" font-weight="700" fill="#172033">Схемы включения транзистора</text>
+  <g font-family="-apple-system, sans-serif" font-size="18" fill="#172033" text-anchor="middle">
+    <rect x="35" y="85" width="200" height="210" rx="16" fill="#FFF" stroke="#5B6CFF" stroke-width="3"/><text x="135" y="120" font-weight="700">Общий эмиттер</text><text x="135" y="160">вход: B-E</text><text x="135" y="190">выход: C-E</text><text x="135" y="230" fill="#F05A47">усиление + инверсия</text><text x="135" y="265">E общий</text>
+    <rect x="260" y="85" width="200" height="210" rx="16" fill="#FFF" stroke="#2FA86F" stroke-width="3"/><text x="360" y="120" font-weight="700">Общая база</text><text x="360" y="160">вход: E-B</text><text x="360" y="190">выход: C-B</text><text x="360" y="230" fill="#2FA86F">без инверсии</text><text x="360" y="265">B общая</text>
+    <rect x="485" y="85" width="200" height="210" rx="16" fill="#FFF" stroke="#F2A93B" stroke-width="3"/><text x="585" y="120" font-weight="700">Общий коллектор</text><text x="585" y="160">вход: B-C</text><text x="585" y="190">выход: E-C</text><text x="585" y="230" fill="#B56B00">Uвых ≈ Uвх</text><text x="585" y="265">C общий</text>
+  </g>
+  <text x="36" y="334" font-family="-apple-system, sans-serif" font-size="16" fill="#4C5870">«Общий» вывод входит и во входную, и в выходную цепь.</text>
+</svg>

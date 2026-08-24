@@ -1,0 +1,2417 @@
+{
+  "schemaVersion": 2,
+  "purpose": "Authoritative authored built-in glossary educational content for every concept referenced by the final 405-question layer.",
+  "entryCount": 176,
+  "mappingRule": "Match by exact normalized existing term first, then a unique alias. Preserve existing IDs and structural metadata. Do not regenerate or paraphrase fromZero.",
+  "entries": [
+    {
+      "term": "90 дней",
+      "shortDefinition": "В старых правилах CEPT, отражённых в экзаменационном банке, 90 дней — срок временной работы приезжего радиолюбителя по подходящей CEPT-лицензии без оформления обычной национальной лицензии страны пребывания.",
+      "fromZero": "В старых правилах CEPT, отражённых в экзаменационном банке, 90 дней — срок временной работы приезжего радиолюбителя по подходящей CEPT-лицензии без оформления обычной национальной лицензии страны пребывания. Это именно временный режим для поездки, а не бессрочное разрешение.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №20: «В течение какого времени радиооператор любительской радиостанции, нерезидент, обладатель полной или Novice - лицензии СЕРТ может осуществлять передачи с территории России без получения разрешительных докумен…»",
+      "relatedQuestionNumbers": [
+        20
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "AM",
+      "shortDefinition": "AM (Amplitude Modulation, амплитудная модуляция) — вид модуляции, где полезный низкочастотный сигнал изменяет амплитуду высокочастотной несущей.",
+      "fromZero": "AM (Amplitude Modulation, амплитудная модуляция) — вид модуляции, где полезный низкочастотный сигнал изменяет амплитуду высокочастотной несущей. Частота несущей в идеальном случае остаётся на месте, а вокруг неё появляются верхняя и нижняя боковые полосы.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №133: «Как обозначается вид работы - «амплитудная модуляция»?»",
+      "relatedQuestionNumbers": [
+        133,
+        134,
+        138,
+        143,
+        149,
+        150,
+        268,
+        331
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "ARNEC",
+      "shortDefinition": "ARNEC — гармонизированный экзаменационный сертификат уровня CEPT Novice.",
+      "fromZero": "ARNEC — гармонизированный экзаменационный сертификат уровня CEPT Novice. Он подтверждает, что человек сдал согласованную программу экзамена новичка; в экзаменационном банке этот уровень связан с третьей категорией.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №28: «Какую функцию выполняет радиолюбительский экзаменационный сертификат новичка ARNEC?»",
+      "relatedQuestionNumbers": [
+        28,
+        31
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "CB",
+      "shortDefinition": "CB, или «Си-Би», — гражданская радиосвязь около 27 МГц.",
+      "fromZero": "CB, или «Си-Би», — гражданская радиосвязь около 27 МГц. Это отдельный режим/служба связи, а не любительская служба: наличие доступной радиостанции CB не превращает её оператора в радиолюбителя с любительским позывным.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №1: «С какими радиостанциями может проводить радиосвязи любительская станция, если она НЕ участвует в проведении аварийно-спасательных работ?»",
+      "relatedQuestionNumbers": [
+        1
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "CEPT",
+      "shortDefinition": "CEPT — Европейская конференция администраций почт и электросвязи.",
+      "fromZero": "CEPT — Европейская конференция администраций почт и электросвязи. Для радиолюбителя она важна тем, что её рекомендации согласуют квалификационные уровни и временную работу радиолюбителей между участвующими странами.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №10: «На основании рекомендаций какой организации в различных странах Европы и ряде неевропейских стран устанавливаются единые требования к квалификации радиолюбителей?»",
+      "relatedQuestionNumbers": [
+        10,
+        14,
+        18,
+        21,
+        22,
+        23,
+        26,
+        31,
+        33
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "CEPT Full",
+      "shortDefinition": "CEPT Full — полный гармонизированный уровень радиолюбительской квалификации CEPT.",
+      "fromZero": "CEPT Full — полный гармонизированный уровень радиолюбительской квалификации CEPT. Он соответствует более высокой программе, связанной с HAREC, и даёт более широкое взаимное признание, чем уровень Novice.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №20: «В течение какого времени радиооператор любительской радиостанции, нерезидент, обладатель полной или Novice - лицензии СЕРТ может осуществлять передачи с территории России без получения разрешительных докумен…»",
+      "relatedQuestionNumbers": [
+        20,
+        25,
+        27,
+        29,
+        34
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "CEPT Novice",
+      "shortDefinition": "CEPT Novice — гармонизированный «новичковый» уровень CEPT с более ограниченной квалификацией.",
+      "fromZero": "CEPT Novice — гармонизированный «новичковый» уровень CEPT с более ограниченной квалификацией. В старом экзаменационном банке с ним связываются национальные документы более низкой категории и сертификат ARNEC.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №19: «Какой российский документ имеет силу лицензии СЕРТ новичка (Novice)?»",
+      "relatedQuestionNumbers": [
+        19,
+        20,
+        25,
+        28,
+        30
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "CEPT T/R 61-01",
+      "shortDefinition": "CEPT T/R 61-01 — рекомендация о взаимном признании радиолюбительских лицензий CEPT при временной работе в другой участвующей стране.",
+      "fromZero": "CEPT T/R 61-01 — рекомендация о взаимном признании радиолюбительских лицензий CEPT при временной работе в другой участвующей стране. Проще: она описывает, как лицензированный радиолюбитель может временно выйти в эфир во время поездки и как формировать позывной.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №24: «В каком документе содержатся сведения о том, в соответствии с какой национальной радиолюбительской лицензией может осуществлять передачи владелец полной или Novice - лицензии СЕРТ в стране пребывания? Как на…»",
+      "relatedQuestionNumbers": [
+        24
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "CTCSS",
+      "shortDefinition": "CTCSS — непрерывный низкочастотный субтон, передаваемый вместе с FM-речью.",
+      "fromZero": "CTCSS — непрерывный низкочастотный субтон, передаваемый вместе с FM-речью. Приёмник или ретранслятор может открываться только при наличии нужного субтона; это средство доступа/селекции, а не шифрование разговора.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №94: «Что может потребоваться передавать вашей радиостанции одновременно с речевым сигналом для проведения QSO через любительский ретранслятор?»",
+      "relatedQuestionNumbers": [
+        94,
+        154,
+        155
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "CW",
+      "shortDefinition": "CW в радиолюбительской практике — телеграф, где несущую включают и выключают ключом в ритме азбуки Морзе.",
+      "fromZero": "CW в радиолюбительской практике — телеграф, где несущую включают и выключают ключом в ритме азбуки Морзе. Приёмник слышит эти включения как точки и тире, из которых складываются буквы и цифры.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №98: «Какой экзаменационной программе CEPT соответствуют вопросы на первую категорию?»",
+      "relatedQuestionNumbers": [
+        98,
+        108,
+        131,
+        134,
+        170,
+        353,
+        395,
+        424
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "DSP",
+      "shortDefinition": "DSP (Digital Signal Processing) — цифровая обработка сигналов.",
+      "fromZero": "DSP (Digital Signal Processing) — цифровая обработка сигналов. Аналоговый сигнал преобразуют в числа, а затем алгоритмы выполняют фильтрацию, подавление шумов, демодуляцию и другие операции, которые раньше делали аналоговые цепи.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №340: «Каково назначение устройств цифровой обработки сигналов, применяемых в трансивере?»",
+      "relatedQuestionNumbers": [
+        340
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "DX",
+      "shortDefinition": "DX — дальняя или редкая радиостанция/радиосвязь.",
+      "fromZero": "DX — дальняя или редкая радиостанция/радиосвязь. Для радиолюбителя DX обычно означает связь на большое расстояние или с редкой страной/территорией, которую интересно «добыть» в эфире.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №15: «Что обозначает сокращение «DX»?»",
+      "relatedQuestionNumbers": [
+        15
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "EME",
+      "shortDefinition": "EME (Earth–Moon–Earth) — связь через отражение радиоволн от Луны.",
+      "fromZero": "EME (Earth–Moon–Earth) — связь через отражение радиоволн от Луны. Сигнал проходит от Земли до Луны и обратно, поэтому потери огромны и нужны направленные антенны, точное наведение и чувствительный приём.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №195: «Какие механизмы дальнего распространения присущи ультракоротким радиоволнам?»",
+      "relatedQuestionNumbers": [
+        195,
+        374
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "FM",
+      "shortDefinition": "FM (Frequency Modulation, частотная модуляция) — вид модуляции, где полезный сигнал отклоняет мгновенную частоту несущей вверх и вниз.",
+      "fromZero": "FM (Frequency Modulation, частотная модуляция) — вид модуляции, где полезный сигнал отклоняет мгновенную частоту несущей вверх и вниз. Амплитуда ВЧ-сигнала при этом в нормальном режиме почти постоянна.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №88: «Какая полоса частот двухметрового диапазона предназначена для работы частотной модуляцией (FM) без использования наземных ретрансляторов и радиолюбительских спутников?»",
+      "relatedQuestionNumbers": [
+        88,
+        132,
+        134,
+        144,
+        148,
+        164,
+        173,
+        174,
+        175,
+        176,
+        218,
+        219,
+        332,
+        344
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "HAREC",
+      "shortDefinition": "HAREC — гармонизированный экзаменационный сертификат полной радиолюбительской квалификации CEPT.",
+      "fromZero": "HAREC — гармонизированный экзаменационный сертификат полной радиолюбительской квалификации CEPT. Это подтверждение сдачи программы экзамена, а не сама радиостанция и не позывной.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №10: «На основании рекомендаций какой организации в различных странах Европы и ряде неевропейских стран устанавливаются единые требования к квалификации радиолюбителей?»",
+      "relatedQuestionNumbers": [
+        10,
+        27,
+        28,
+        31,
+        32,
+        33,
+        34
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "IARU",
+      "shortDefinition": "IARU — Международный радиолюбительский союз, объединяющий национальные радиолюбительские организации.",
+      "fromZero": "IARU — Международный радиолюбительский союз, объединяющий национальные радиолюбительские организации. Он представляет интересы радиолюбителей и координирует рекомендации, но не является государственным регулятором частот.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №8: «На сколько условных районов разделён земной шар по схеме деления на районы IARU (ITU)?»",
+      "relatedQuestionNumbers": [
+        8,
+        9,
+        10,
+        14
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "ITU",
+      "shortDefinition": "ITU/МСЭ — Международный союз электросвязи, межправительственная организация системы ООН.",
+      "fromZero": "ITU/МСЭ — Международный союз электросвязи, межправительственная организация системы ООН. Он устанавливает международную основу распределения спектра и радиорегламент, то есть работает шире, чем только любительская связь.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №8: «На сколько условных районов разделён земной шар по схеме деления на районы IARU (ITU)?»",
+      "relatedQuestionNumbers": [
+        8,
+        9,
+        10,
+        14,
+        37
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "LPD",
+      "shortDefinition": "LPD — маломощные общедоступные радиостанции в выделенном диапазоне, обычно 433 МГц.",
+      "fromZero": "LPD — маломощные общедоступные радиостанции в выделенном диапазоне, обычно 433 МГц. Это не любительская служба: у LPD свои ограничения и нет обычной системы любительских позывных.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №1: «С какими радиостанциями может проводить радиосвязи любительская станция, если она НЕ участвует в проведении аварийно-спасательных работ?»",
+      "relatedQuestionNumbers": [
+        1
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "LSB",
+      "shortDefinition": "LSB (Lower Side Band) — нижняя боковая полоса SSB.",
+      "fromZero": "LSB (Lower Side Band) — нижняя боковая полоса SSB. Если представить положение подавленной несущей как границу, полезный речевой спектр располагается ниже неё по частоте.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №169: «Что в радиостанции переключает кнопка «USB - LSB»?»",
+      "relatedQuestionNumbers": [
+        169
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "OE",
+      "shortDefinition": "OE — международный префикс позывных Австрии.",
+      "fromZero": "OE — международный префикс позывных Австрии. В старых вопросах CEPT он ставится перед домашним позывным временно работающего в Австрии радиолюбителя, например OE/RL3DX.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №23: «Какой позывной сигнал должен использовать российский радиолюбитель с позывным сигналом RL3DX, не имеющий австрийской национальной радиолюбительской лицензии, для осуществления передач с территории Австрии в…»",
+      "relatedQuestionNumbers": [
+        23
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "ON",
+      "shortDefinition": "ON — международный префикс позывных Бельгии.",
+      "fromZero": "ON — международный префикс позывных Бельгии. При временной работе по CEPT он используется перед собственным позывным, например ON/RL3DX.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №22: «Какой позывной сигнал должен использовать российский радиолюбитель с позывным сигналом RL3DX, не имеющий бельгийской национальной радиолюбительской лицензии, для осуществления передач с территории Бельгии в…»",
+      "relatedQuestionNumbers": [
+        22
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "PEP",
+      "shortDefinition": "PEP (Peak Envelope Power) — пиковая мощность огибающей.",
+      "fromZero": "PEP (Peak Envelope Power) — пиковая мощность огибающей. Для модулированного ВЧ-сигнала, особенно SSB, она характеризует мощность в максимум огибающей, а не среднюю мощность за длительное время.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №401: «Как связаны между собой пиковая и средняя мощность однополосного передатчика?»",
+      "relatedQuestionNumbers": [
+        401
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "PMR",
+      "shortDefinition": "PMR446 — общедоступная персональная мобильная радиосвязь в районе 446 МГц с установленными ограничениями мощности и аппаратуры.",
+      "fromZero": "PMR446 — общедоступная персональная мобильная радиосвязь в районе 446 МГц с установленными ограничениями мощности и аппаратуры. Она не является любительской службой.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №1: «С какими радиостанциями может проводить радиосвязи любительская станция, если она НЕ участвует в проведении аварийно-спасательных работ?»",
+      "relatedQuestionNumbers": [
+        1
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "QRM",
+      "shortDefinition": "QRM — Q-код помех от других радиостанций или искусственных радиосигналов.",
+      "fromZero": "QRM — Q-код помех от других радиостанций или искусственных радиосигналов. Если рядом работает другая станция и мешает принять корреспондента, это QRM, а не QRN.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №124: «Каким Q-кодом обозначается выражение \"атмосферные помехи\"?»",
+      "relatedQuestionNumbers": [
+        124,
+        125
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "QRN",
+      "shortDefinition": "QRN — Q-код естественных/атмосферных радиопомех.",
+      "fromZero": "QRN — Q-код естественных/атмосферных радиопомех. Грозовые разряды и природный шум — типичный QRN; помехи от другой станции называются QRM.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №124: «Каким Q-кодом обозначается выражение \"атмосферные помехи\"?»",
+      "relatedQuestionNumbers": [
+        124,
+        125
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "QRP",
+      "shortDefinition": "QRP означает работу малой мощностью; как Q-код это также просьба уменьшить мощность.",
+      "fromZero": "QRP означает работу малой мощностью; как Q-код это также просьба уменьшить мощность. В любительской практике QRP часто ассоциируют с передачей примерно 5 Вт или меньше.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №15: «Что обозначает сокращение «DX»?»",
+      "relatedQuestionNumbers": [
+        15,
+        71,
+        126,
+        127
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "QRT",
+      "shortDefinition": "QRT означает прекращение передачи или работы в эфире.",
+      "fromZero": "QRT означает прекращение передачи или работы в эфире. Если оператор сообщает, что заканчивает работу, это код QRT.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №123: «Каким Q-кодом обозначается выражение \"прекращение работы в эфире\"?»",
+      "relatedQuestionNumbers": [
+        123
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "QRZ",
+      "shortDefinition": "QRZ?",
+      "fromZero": "QRZ? означает «кто меня вызывает?». Код используют, когда слышен вызов, но позывной вызывающей станции не удалось разобрать.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №123: «Каким Q-кодом обозначается выражение \"прекращение работы в эфире\"?»",
+      "relatedQuestionNumbers": [
+        123
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "QSL",
+      "shortDefinition": "QSL означает подтверждение приёма/радиосвязи.",
+      "fromZero": "QSL означает подтверждение приёма/радиосвязи. QSL-карточка — бумажное или электронное подтверждение QSO с позывными, временем, диапазоном и видом работы.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №123: «Каким Q-кодом обозначается выражение \"прекращение работы в эфире\"?»",
+      "relatedQuestionNumbers": [
+        123,
+        129
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "QSO",
+      "shortDefinition": "QSO — проведённая радиосвязь между станциями.",
+      "fromZero": "QSO — проведённая радиосвязь между станциями. В разговоре радиолюбитель может сказать «провёл QSO» — то есть установил связь и обменялся необходимой информацией.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №1: «С какими радиостанциями может проводить радиосвязи любительская станция, если она НЕ участвует в проведении аварийно-спасательных работ?»",
+      "relatedQuestionNumbers": [
+        1,
+        86,
+        94,
+        104,
+        107,
+        121,
+        128,
+        129,
+        130,
+        237
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "QSY",
+      "shortDefinition": "QSY означает переход на другую частоту.",
+      "fromZero": "QSY означает переход на другую частоту. Например, после вызова на общей частоте станции могут договориться сделать QSY на свободный участок.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №122: «Каким Q-кодом обозначается выражение \"изменение частоты\"?»",
+      "relatedQuestionNumbers": [
+        122,
+        123
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "RA/",
+      "shortDefinition": "RA/ — префикс, который в старой формулировке российского экзаменационного банка использует временно работающий в России обладатель полной CEPT-лицензии перед своим домашним позывным.",
+      "fromZero": "Префикс — добавка перед позывным, которая показывает особый режим работы станции. В старой формулировке банка гость с полной CEPT-лицензией при временной работе из России ставит RA/ перед своим домашним позывным.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №29: «Какой позывной сигнал должен использовать для опознавания своей радиостанции владелец лицензии СЕПТ при временном (до 90 дней) посещении России?»",
+      "relatedQuestionNumbers": [
+        29
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "RST",
+      "shortDefinition": "RST — система рапорта: Readability (разборчивость), Strength (сила), Tone (тон).",
+      "fromZero": "RST — система рапорта: Readability (разборчивость), Strength (сила), Tone (тон). В телефонии обычно используют первые две цифры RS; например 59 — полностью разборчивый и очень сильный сигнал.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №108: «В каком порядке даются оценки сигнала корреспондента при передаче рапорта по системе RST?»",
+      "relatedQuestionNumbers": [
+        108,
+        112,
+        113
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "RTTY",
+      "shortDefinition": "RTTY — радиотелетайп, цифровой вид передачи печатного текста.",
+      "fromZero": "RTTY — радиотелетайп, цифровой вид передачи печатного текста. Исторически символы передаются переключением между двумя тонами/частотами, а программа или терминал превращает их обратно в текст.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №134: «Какие из перечисленных видов работы предназначены для передачи голоса?»",
+      "relatedQuestionNumbers": [
+        134,
+        135
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "RU/",
+      "shortDefinition": "RU/ — префикс, который в старом российском экзаменационном банке ставит перед своим позывным временный гость с CEPT Novice при работе из России.",
+      "fromZero": "Префикс ставят перед обычным позывным, чтобы показать работу из другой страны или по особому режиму. В старом российском банке временный гость с лицензией CEPT Novice добавляет RU/ перед своим домашним позывным.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №30: «Какой позывной сигнал должен использовать для опознавания своей радиостанции владелец лицензии СЕПТ \"новичка\" (CEPT NOVICE) при временном (до 90 дней) посещении России?»",
+      "relatedQuestionNumbers": [
+        30
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "SSB",
+      "shortDefinition": "SSB (Single Side Band) — однополосная модуляция.",
+      "fromZero": "SSB (Single Side Band) — однополосная модуляция. Из обычного AM-сигнала оставляют одну боковую полосу и подавляют несущую, поэтому энергия расходуется главным образом на полезную речь; в паузе мощность почти исчезает.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №134: «Какие из перечисленных видов работы предназначены для передачи голоса?»",
+      "relatedQuestionNumbers": [
+        134,
+        139,
+        140,
+        146,
+        147,
+        165,
+        169,
+        171,
+        172,
+        216,
+        217,
+        343,
+        354,
+        396,
+        401,
+        406,
+        407,
+        408
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "USB",
+      "shortDefinition": "USB (Upper Side Band) — верхняя боковая полоса SSB: полезный спектр расположен выше частоты подавленной несущей.",
+      "fromZero": "При SSB несущую — центральное колебание радиосигнала — почти не передают, а информацию оставляют в одной боковой полосе частот. USB означает Upper Side Band: выбирается верхняя боковая полоса, потому что её частоты расположены выше частоты подавленной несущей.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №139: «Как графически изображается спектр сигнала при однополосной модуляции с верхней боковой полосой?»",
+      "relatedQuestionNumbers": [
+        139,
+        169,
+        216
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "аварийная радиосвязь",
+      "shortDefinition": "Аварийная радиосвязь — радиообмен при угрозе жизни, стихийном бедствии или спасательных работах.",
+      "fromZero": "Аварийная радиосвязь — радиообмен при угрозе жизни, стихийном бедствии или спасательных работах. В таких ситуациях приоритетом становится передача информации, необходимой для помощи людям, и некоторые обычные ограничения могут иметь специальные исключения.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №38: «Какая из перечисленных любительских радиостанций вправе претендовать на то, что какая-либо из частот будет закреплена за ней постоянно или будет освобождена для ней в какой-то момент времени: радиостанция, у…»",
+      "relatedQuestionNumbers": [
+        38
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "аварийная связь",
+      "shortDefinition": "Аварийная связь — связь для передачи срочной информации при бедствии или непосредственной угрозе жизни/здоровью.",
+      "fromZero": "Аварийная связь — связь для передачи срочной информации при бедствии или непосредственной угрозе жизни/здоровью. Её не следует путать с обычным тренировочным радиообменом.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №6: «Может ли станция любительской службы проводить радиосвязи с радиостанциями, не имеющими отношения к любительской службе?»",
+      "relatedQuestionNumbers": [
+        6,
+        7
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "аврора",
+      "shortDefinition": "Авроральное распространение использует рассеяние радиоволн на ионизированных областях, связанных с полярным сиянием.",
+      "fromZero": "Авроральное распространение использует рассеяние радиоволн на ионизированных областях, связанных с полярным сиянием. Сигналы на УКВ могут отражаться/рассеиваться от авроральной области и приобретать характерное «шершавое» звучание.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №195: «Какие механизмы дальнего распространения присущи ультракоротким радиоволнам?»",
+      "relatedQuestionNumbers": [
+        195,
+        197,
+        231,
+        233
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "АГC",
+      "shortDefinition": "AGC/АРУ — автоматическая регулировка усиления.",
+      "fromZero": "AGC/АРУ — автоматическая регулировка усиления. При сильном входном сигнале приёмник автоматически уменьшает усиление, а при слабом позволяет большее, чтобы уровень на выходе не менялся слишком резко.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №163: «Какую функцию в радиостанции выполняет схема автоматической регулировки усиления (AGC)?»",
+      "relatedQuestionNumbers": [
+        163
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "Администрация связи",
+      "shortDefinition": "Администрация связи — государственный орган или служба, отвечающая за выполнение обязательств государства в области электросвязи и радиочастот.",
+      "fromZero": "Администрация связи — государственный орган или служба, отвечающая за выполнение обязательств государства в области электросвязи и радиочастот. Это регуляторная структура, а не общественный радиоклуб.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №37: «Как Регламентом радиосвязи Международного союза электросвязи определена Администрация связи?»",
+      "relatedQuestionNumbers": [
+        37
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "амплитуда",
+      "shortDefinition": "Амплитуда — максимальное отклонение изменяющейся величины от её среднего/нулевого уровня.",
+      "fromZero": "Амплитуда — максимальное отклонение изменяющейся величины от её среднего/нулевого уровня. На осциллограмме это условно «высота» волны относительно середины.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №133: «Как обозначается вид работы - «амплитудная модуляция»?»",
+      "relatedQuestionNumbers": [
+        133,
+        138,
+        143,
+        149,
+        164,
+        165,
+        218,
+        259,
+        268,
+        271,
+        331,
+        392
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "антенна",
+      "shortDefinition": "Антенна преобразует высокочастотный ток передатчика в электромагнитную волну и делает обратное при приёме.",
+      "fromZero": "Антенна преобразует высокочастотный ток передатчика в электромагнитную волну и делает обратное при приёме. Её размеры, форма и положение определяют диапазон, поляризацию и диаграмму направленности.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №87: «Можно ли вносить в аппаратный журнал любительской радиостанции какую-либо информацию помимо обязательной»",
+      "relatedQuestionNumbers": [
+        87,
+        93,
+        153,
+        167,
+        173,
+        181,
+        182,
+        183,
+        184,
+        185,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        199,
+        220,
+        221
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "боковая полоса",
+      "shortDefinition": "Боковые полосы — спектральные составляющие, появляющиеся по сторонам несущей при модуляции.",
+      "fromZero": "Боковые полосы — спектральные составляющие, появляющиеся по сторонам несущей при модуляции. В AM есть верхняя и нижняя боковые, а в SSB одну из них подавляют.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №138: «Как графически изображается спектр сигнала при амплитудной модуляции?»",
+      "relatedQuestionNumbers": [
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        146,
+        147,
+        148,
+        169,
+        171,
+        216,
+        354
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "бортовая радиостанция",
+      "shortDefinition": "Бортовая радиостанция — радиостанция, установленная/используемая на борту судна или воздушного судна.",
+      "fromZero": "Бортовая радиостанция — радиостанция, установленная/используемая на борту судна или воздушного судна. Её применение не должно мешать штатным системам и требует соблюдения правил безопасности и согласия ответственного командира.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №16: «При каких условиях любительская радиостанция может использоваться на борту морского или воздушного судна»",
+      "relatedQuestionNumbers": [
+        16
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "варикап",
+      "shortDefinition": "Варикап — полупроводниковый диод, работающий при обратном напряжении как управляемая ёмкость.",
+      "fromZero": "Варикап — полупроводниковый диод, работающий при обратном напряжении как управляемая ёмкость. Меняя управляющее напряжение, изменяют ёмкость перехода и тем самым настраивают частоту контура или генератора.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №293: «Какой тип полупроводникового диода существенно изменяет свою внутреннюю ёмкость при изменении приложенного к нему напряжения и используется в качестве переменного конденсатора?»",
+      "relatedQuestionNumbers": [
+        293,
+        294,
+        337
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "волновод",
+      "shortDefinition": "Волновод — металлическая или диэлектрическая структура, по которой электромагнитная энергия распространяется как волна.",
+      "fromZero": "Волновод — металлическая или диэлектрическая структура, по которой электромагнитная энергия распространяется как волна. На СВЧ полый металлический волновод часто имеет меньшие потери, чем обычный коаксиальный кабель.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №362: «Из каких составных частей состоит рупорная антенна?»",
+      "relatedQuestionNumbers": [
+        362
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "волновое сопротивление",
+      "shortDefinition": "Волновое сопротивление линии — отношение напряжения к току бегущей волны в длинной линии.",
+      "fromZero": "Волновое сопротивление линии — отношение напряжения к току бегущей волны в длинной линии. Для типичного радиолюбительского коаксиального кабеля это часто 50 Ом; оно не равно просто омметровому сопротивлению центральной жилы.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №222: «Два коаксиальных соединителя, один из которых имеет волновое сопротивление 50 Ом, а другой - 75 Ом, отличаются только диаметром штыря центрального проводника. Какое волновое сопротивление имеет коаксиальный…»",
+      "relatedQuestionNumbers": [
+        222,
+        223
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "вредная помеха",
+      "shortDefinition": "Вредная помеха — помеха, которая серьёзно ухудшает, прерывает или препятствует работе радиослужбы, имеющей право на защиту.",
+      "fromZero": "Вредная помеха — помеха, которая серьёзно ухудшает, прерывает или препятствует работе радиослужбы, имеющей право на защиту. Это юридико-техническое понятие, а не просто любой слабый шум.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №48: «Что должен делать радиооператор любительской радиостанции, ведущий передачу в диапазоне частот, выделенном любительской службе на вторичной основе, при требовании прекратить передачу со стороны радиостанции,…»",
+      "relatedQuestionNumbers": [
+        48
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "вторичная основа",
+      "shortDefinition": "Работа радиослужбы на вторичной основе означает, что она не должна создавать вредных помех первичным службам и обычно не может требовать защиты от их законной работы.",
+      "fromZero": "Работа радиослужбы на вторичной основе означает, что она не должна создавать вредных помех первичным службам и обычно не может требовать защиты от их законной работы. То есть приоритет ниже, чем у первичной основы.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №3: «Разрешено ли радиостанции любительской службы создание преднамеренных помех другим радиостанциям?»",
+      "relatedQuestionNumbers": [
+        3,
+        6,
+        47,
+        48
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "гармонизированный экзамен",
+      "shortDefinition": "Гармонизированный экзамен — национальный экзамен, программа которого согласована между странами по рекомендациям CEPT.",
+      "fromZero": "Гармонизированный экзамен — национальный экзамен, программа которого согласована между странами по рекомендациям CEPT. Благодаря общей программе результат может признаваться для выдачи соответствующих документов в другой стране.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №33: «Где можно сдать международный экзамен на получение гармонизированного радиолюбительского экзаменационного сертификата HAREC?»",
+      "relatedQuestionNumbers": [
+        33
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "гармоника",
+      "shortDefinition": "Гармоника — составляющая сигнала с частотой, равной целому числу основных частот: 2f, 3f, 4f и т.",
+      "fromZero": "Гармоника — составляющая сигнала с частотой, равной целому числу основных частот: 2f, 3f, 4f и т. д. Гармоники часто возникают из-за нелинейности и могут создавать нежелательные излучения.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №421: «Ваш сосед жалуется на помехи телевизионному приёму на одном или двух каналах тогда, когда Вы передаете только на диапазоне 2 м. Что обычно является наиболее вероятной причиной помех?»",
+      "relatedQuestionNumbers": [
+        421,
+        426
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "гетеродин",
+      "shortDefinition": "Гетеродин — внутренний генератор приёмника/передатчика с известной частотой.",
+      "fromZero": "Гетеродин — внутренний генератор приёмника/передатчика с известной частотой. Его сигнал подают на смеситель вместе с принимаемым сигналом, чтобы получить сумму и разность частот и выбрать нужную промежуточную частоту.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №177: «На функциональной схеме изображён супергетеродинный приёмник. Чем является блок, обозначенный цифрой 1?»",
+      "relatedQuestionNumbers": [
+        177,
+        178,
+        179,
+        180,
+        334,
+        336,
+        337,
+        341,
+        342,
+        343,
+        344,
+        346,
+        395,
+        396
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "двухтоновый генератор",
+      "shortDefinition": "Двухтоновый генератор создаёт два чистых звуковых тона одновременно.",
+      "fromZero": "Двухтоновый генератор создаёт два чистых звуковых тона одновременно. Такой сигнал используют для проверки линейности SSB-тракта: нелинейность хорошо видна по форме огибающей и появлению интермодуляционных продуктов.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №406: «На каком из рисунков изображена правильная схема проверки линейности однополосного передатчика (трансивера) с применением звукового двухтонального генератора?»",
+      "relatedQuestionNumbers": [
+        406,
+        407,
+        408
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "детектор",
+      "shortDefinition": "Детектор в приёмнике извлекает полезную информацию из модулированного ВЧ/ПЧ-сигнала.",
+      "fromZero": "Детектор в приёмнике извлекает полезную информацию из модулированного ВЧ/ПЧ-сигнала. Например, AM-детектор выделяет огибающую, а FM-дискриминатор превращает отклонение частоты в звуковое напряжение.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №180: «На функциональной схеме изображён супергетеродинный приёмник. Чем является блок, обозначенный цифрой 5?»",
+      "relatedQuestionNumbers": [
+        180,
+        331,
+        333,
+        338,
+        343,
+        344,
+        355
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "децибел",
+      "shortDefinition": "Децибел (дБ) — логарифмическая единица отношения уровней.",
+      "fromZero": "Децибел (дБ) — логарифмическая единица отношения уровней. Для мощности +3 дБ примерно означает ×2, +10 дБ — ×10; для напряжения при одинаковом сопротивлении используют коэффициент 20·log10(U2/U1).",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №330: «Чему равен коэффициент усиления усилителя переменного напряжения, если при действующем значении напряжения на его входе равным 10 В действующее значение напряжения на его выходе равно 50 В?»",
+      "relatedQuestionNumbers": [
+        330,
+        400
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "диаграмма направленности",
+      "shortDefinition": "Диаграмма направленности показывает, насколько сильно антенна излучает или принимает в разных направлениях.",
+      "fromZero": "Диаграмма направленности показывает, насколько сильно антенна излучает или принимает в разных направлениях. «Лепестки» — направления сильного действия, а провалы/нули — направления слабого.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №188: «Какой вид имеет диаграмма направленности в горизонтальной плоскости высоко подвешенного горизонтально расположенного полуволнового диполя?»",
+      "relatedQuestionNumbers": [
+        188,
+        189,
+        190,
+        234,
+        357,
+        358,
+        365
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "диапазон",
+      "shortDefinition": "Радиодиапазон — участок частот, объединённый по назначению или традиционному названию.",
+      "fromZero": "Радиодиапазон — участок частот, объединённый по назначению или традиционному названию. Например, «2 м» соответствует частотам около 144 МГц, потому что длина волны там примерно два метра.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №7: «Если радиооператор любительской радиостанции слышит сигнал бедствия на частоте, на которой он не имеете права осуществлять передачу, что ему разрешено сделать для помощи станции, терпящей бедствие?»",
+      "relatedQuestionNumbers": [
+        7
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "диапазон 2 м",
+      "shortDefinition": "Двухметровый любительский диапазон находится около 144–146 МГц в используемом экзаменационном контексте.",
+      "fromZero": "Двухметровый любительский диапазон находится около 144–146 МГц в используемом экзаменационном контексте. Название связано с длиной волны: 300/144 ≈ 2,08 м.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №47: «Какой из перечисленных диапазонов выделен любительской службе на первичной основе?»",
+      "relatedQuestionNumbers": [
+        47
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "динамический диапазон",
+      "shortDefinition": "Динамический диапазон приёмника — разница между самым слабым полезным сигналом, который он ещё способен принять, и очень сильным сигналом, при котором тракт начинает перегружаться/искажать.",
+      "fromZero": "Динамический диапазон приёмника — разница между самым слабым полезным сигналом, который он ещё способен принять, и очень сильным сигналом, при котором тракт начинает перегружаться/искажать. Чем он шире, тем лучше приёмник справляется с сильными соседними станциями.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №352: «На какие свойства радиоприёмника влияет его динамический диапазон?»",
+      "relatedQuestionNumbers": [
+        352
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "диод",
+      "shortDefinition": "Диод — полупроводниковый элемент, который в обычном режиме хорошо проводит ток в одном направлении и плохо — в обратном.",
+      "fromZero": "Диод — полупроводниковый элемент, который в обычном режиме хорошо проводит ток в одном направлении и плохо — в обратном. Поэтому его используют для выпрямления, детектирования и переключения.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №288: «Каково основное свойство диода позволяет использовать его в качестве выпрямителя переменного тока?»",
+      "relatedQuestionNumbers": [
+        288,
+        289,
+        290,
+        291,
+        293,
+        326,
+        328,
+        331,
+        337
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "диполь",
+      "shortDefinition": "Полуволновый диполь — два проводящих плеча общей длиной примерно λ/2, питаемые около центра.",
+      "fromZero": "Полуволновый диполь — два проводящих плеча общей длиной примерно λ/2, питаемые около центра. В свободном пространстве ток максимален у центра и падает к концам, а излучение максимально поперёк провода и минимально вдоль его оси.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №185: «Как можно понизить резонансную частоту дипольной антенны?»",
+      "relatedQuestionNumbers": [
+        185,
+        186,
+        188,
+        357,
+        360,
+        366,
+        369,
+        370,
+        371,
+        372
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "директор",
+      "shortDefinition": "Директор — паразитный элемент направленной антенны типа Yagi, расположенный в сторону основного излучения.",
+      "fromZero": "Директор — паразитный элемент направленной антенны типа Yagi, расположенный в сторону основного излучения. Обычно он немного короче активного элемента и помогает усилить излучение вперёд.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №359: «Как соотносятся друг с другом длины активного элемента (V), директора (D) и рефлектора (R) в трёхэлементной антенне типа «волновой канал»?»",
+      "relatedQuestionNumbers": [
+        359
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "длина волны",
+      "shortDefinition": "Длина волны λ — расстояние, которое волна проходит за один период.",
+      "fromZero": "Длина волны λ — расстояние, которое волна проходит за один период. Для радиоволн в свободном пространстве удобно: λ(м)≈300/f(МГц); поэтому чем выше частота, тем короче волна.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №211: «Какова длина волны диапазона 144 МГц?»",
+      "relatedQuestionNumbers": [
+        211,
+        212,
+        213,
+        214
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "добротность",
+      "shortDefinition": "Добротность Q показывает, насколько «остро» резонирует контур: сколько энергии он запасает по сравнению с потерями.",
+      "fromZero": "Добротность Q показывает, насколько «остро» резонирует контур: сколько энергии он запасает по сравнению с потерями. Большая Q обычно означает более узкую полосу резонанса и меньшие относительные потери.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №283: «Чем определяется добротность катушки индуктивности?»",
+      "relatedQuestionNumbers": [
+        283,
+        317,
+        319,
+        320
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "дробь",
+      "shortDefinition": "Дробь в позывном (символ `/`) отделяет основной позывной от дополнительного префикса/суффикса, например страны пребывания или режима работы.",
+      "fromZero": "Дробь в позывном (символ `/`) отделяет основной позывной от дополнительного префикса/суффикса, например страны пребывания или режима работы. Это часть записи позывного, а не математическая операция.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №21: «Какой позывной сигнал должен передавать радиолюбитель, осуществляющий передачи при посещении страны, присоединившейся к рекомендациям СЕРТ T/R 61-01 и ЕСС(05)06 ?»",
+      "relatedQuestionNumbers": [
+        21
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "дуплекс",
+      "shortDefinition": "Дуплекс — режим, где передача и приём могут идти одновременно по разным частотам/каналам.",
+      "fromZero": "Дуплекс — режим, где передача и приём могут идти одновременно по разным частотам/каналам. В любительских ретрансляторах чаще говорят о разнесённых входной и выходной частотах, хотя оператор обычно говорит по очереди.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №170: «Что представляет собой полудуплекс (QSK)?»",
+      "relatedQuestionNumbers": [
+        170
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "заземление",
+      "shortDefinition": "Заземление соединяет оборудование с землёй или общей защитной системой для электрической безопасности и отвода аварийных токов/заряда.",
+      "fromZero": "Заземление соединяет оборудование с землёй или общей защитной системой для электрической безопасности и отвода аварийных токов/заряда. Защитное заземление нельзя путать с «ВЧ-землёй» антенны, хотя физически они могут быть связаны.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №409: «Как лучше всего защитить антенну радиостанции от поражения молнией и воздействия статического электричества?»",
+      "relatedQuestionNumbers": [
+        409,
+        412,
+        415,
+        416,
+        417,
+        418
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "замирание",
+      "shortDefinition": "Замирание (fading) — изменение уровня принятого сигнала со временем.",
+      "fromZero": "Замирание (fading) — изменение уровня принятого сигнала со временем. Оно возникает, когда к приёмнику приходят волны по разным путям и складываются то в фазе, то противофазно.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №236: «Как влияет многолучевое распространение радиоволн на качество сигнала при проведении дальних радиосвязей?»",
+      "relatedQuestionNumbers": [
+        236
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "зеркальный канал",
+      "shortDefinition": "Зеркальный канал супергетеродина — нежелательная входная частота, которая с тем же гетеродином создаёт такую же промежуточную частоту, как полезный сигнал.",
+      "fromZero": "Зеркальный канал супергетеродина — нежелательная входная частота, которая с тем же гетеродином создаёт такую же промежуточную частоту, как полезный сигнал. Поэтому без хорошего входного фильтра приёмник может ошибочно принять «зеркальную» станцию.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №296: «Чем отличаются биполярные транзисторы PNP- и NPN- проводимости?»",
+      "relatedQuestionNumbers": [
+        296,
+        350,
+        364,
+        395
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "избирательность",
+      "shortDefinition": "Избирательность — способность приёмника выделять нужный сигнал по частоте и подавлять соседние.",
+      "fromZero": "Избирательность — способность приёмника выделять нужный сигнал по частоте и подавлять соседние. Главную роль здесь играют фильтры: чем лучше они отделяют соседние каналы без искажения полезного сигнала, тем выше избирательность.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №348: «Каково назначение усилителя промежуточной частоты радиоприёмника?»",
+      "relatedQuestionNumbers": [
+        348,
+        349,
+        350
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "индуктивность",
+      "shortDefinition": "Индуктивность L характеризует способность цепи/катушки создавать магнитное поле и противодействовать изменению тока.",
+      "fromZero": "Индуктивность L характеризует способность цепи/катушки создавать магнитное поле и противодействовать изменению тока. Её измеряют в генри; реактивное сопротивление катушки растёт с частотой: XL=2πfL.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №260: «В каком радиоэлементе для хранения энергии используется энергия магнитного поля?»",
+      "relatedQuestionNumbers": [
+        260,
+        281,
+        282,
+        283,
+        310,
+        311,
+        312,
+        313,
+        314,
+        317,
+        335,
+        405
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "интермодуляция",
+      "shortDefinition": "Интермодуляция возникает в нелинейном устройстве, когда несколько сигналов смешиваются и появляются новые частоты вида 2f1−f2, f1+f2 и т.",
+      "fromZero": "Интермодуляция возникает в нелинейном устройстве, когда несколько сигналов смешиваются и появляются новые частоты вида 2f1−f2, f1+f2 и т. п. Эти продукты могут попадать в полезный диапазон и создавать помехи.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №407: «На каком из рисунков изображена осциллограмма выходного сигнала однополосного передатчика (трансивера), имеющего хорошую линейность, при его испытаниях с применением двухтонального генератора?»",
+      "relatedQuestionNumbers": [
+        407
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "ионосфера",
+      "shortDefinition": "Ионосфера — верхние слои атмосферы с большим количеством заряженных частиц.",
+      "fromZero": "Ионосфера — верхние слои атмосферы с большим количеством заряженных частиц. На КВ она может преломлять/возвращать радиоволны к Земле, благодаря чему возможны связи далеко за горизонтом.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №197: «Что представляет собой радиоаврора?»",
+      "relatedQuestionNumbers": [
+        197,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        234,
+        235
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "катушка",
+      "shortDefinition": "Катушка индуктивности — провод, обычно намотанный витками, который запасает энергию в магнитном поле.",
+      "fromZero": "Катушка индуктивности — провод, обычно намотанный витками, который запасает энергию в магнитном поле. Она сопротивляется быстрым изменениям тока; её реактивное сопротивление XL=2πfL растёт с частотой.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №251: «В каком радиоэлементе для хранения энергии используется энергия электрического поля?»",
+      "relatedQuestionNumbers": [
+        251,
+        260,
+        282,
+        283,
+        310,
+        311,
+        318,
+        340
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "квалификационная категория",
+      "shortDefinition": "Квалификационная категория радиолюбителя определяет уровень подтверждённых знаний и связанные с ним права/ограничения работы.",
+      "fromZero": "Квалификационная категория радиолюбителя определяет уровень подтверждённых знаний и связанные с ним права/ограничения работы. В российском банке категории нумеруются от первой (наиболее широкие возможности) до четвёртой.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №17: «Разрешается ли допуск на любительскую радиостанцию лица, не имеющего квалификацию или имеющего квалификацию более низкой категории?»",
+      "relatedQuestionNumbers": [
+        17,
+        18
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "класс A",
+      "shortDefinition": "Класс A — обозначение определённого национального класса радиолюбительской лицензии в конкретной стране.",
+      "fromZero": "Класс A — обозначение определённого национального класса радиолюбительской лицензии в конкретной стране. В вопросах CEPT его нужно воспринимать как национальный эквивалент, указанный в таблице взаимного признания, а не как универсальное название категории во всех странах.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №32: «Какую национальную радиолюбительскую лицензию в Бельгии может без экзаменов получить российский радиолюбитель, имеющий Гармонизированный экзаменационный сертификат HAREC? (Смотри подсказку)»",
+      "relatedQuestionNumbers": [
+        32
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "коаксиальный кабель",
+      "shortDefinition": "Коаксиальный кабель имеет центральный проводник и окружающий его цилиндрический экран с диэлектриком между ними.",
+      "fromZero": "Коаксиальный кабель имеет центральный проводник и окружающий его цилиндрический экран с диэлектриком между ними. Поля в основном заключены внутри кабеля, поэтому он удобно передаёт ВЧ-энергию между трансивером и антенной.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №181: «Что из перечисленного пригодно для работы в качестве линии питания антенны?»",
+      "relatedQuestionNumbers": [
+        181,
+        182,
+        183,
+        184,
+        221,
+        222,
+        223,
+        224
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "код Морзе",
+      "shortDefinition": "Код Морзе передаёт символы последовательностями коротких и длинных элементов — точек и тире.",
+      "fromZero": "Код Морзе передаёт символы последовательностями коротких и длинных элементов — точек и тире. В радио CW эти элементы получают включением и выключением несущей.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №7: «Если радиооператор любительской радиостанции слышит сигнал бедствия на частоте, на которой он не имеете права осуществлять передачу, что ему разрешено сделать для помощи станции, терпящей бедствие?»",
+      "relatedQuestionNumbers": [
+        7
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "кодирование",
+      "shortDefinition": "В контексте экзамена кодирование/шифрование — намеренное сокрытие смысла сообщения от постороннего приёма.",
+      "fromZero": "В контексте экзамена кодирование/шифрование — намеренное сокрытие смысла сообщения от постороннего приёма. Не всякая цифровая форма является запрещённым шифрованием: телеметрия, команды управления и спортивный контрольный номер рассматриваются отдельно.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №2: «В каких случаях любительская радиостанция может передавать кодированные сообщения?»",
+      "relatedQuestionNumbers": [
+        2
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "коллектор",
+      "shortDefinition": "Коллектор — один из трёх выводов биполярного транзистора.",
+      "fromZero": "Коллектор — один из трёх выводов биполярного транзистора. Через коллектор проходит основная часть управляемого тока; небольшой управляющий ток/напряжение в области базы влияет на ток между коллектором и эмиттером.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №295: «Какое свойство биполярного транзистора характеризуется параметром β (бэта)?»",
+      "relatedQuestionNumbers": [
+        295
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "командир судна",
+      "shortDefinition": "Командир судна или воздушного судна отвечает за безопасность на борту.",
+      "fromZero": "Командир судна или воздушного судна отвечает за безопасность на борту. Поэтому использование любительской станции на борту возможно только с его согласия и без помех штатным системам и процедурам.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №16: «При каких условиях любительская радиостанция может использоваться на борту морского или воздушного судна»",
+      "relatedQuestionNumbers": [
+        16
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "коммерческая связь",
+      "shortDefinition": "Коммерческая связь — передача сообщений ради материальной выгоды или как платная услуга.",
+      "fromZero": "Коммерческая связь — передача сообщений ради материальной выгоды или как платная услуга. Любительская служба предназначена для личного интереса, обучения и исследований без извлечения такой выгоды.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №4: «Разрешено ли радиостанции любительской службы передавать какие-либо сообщения за плату?»",
+      "relatedQuestionNumbers": [
+        4
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "Конвенция ITU",
+      "shortDefinition": "Конвенция ITU — один из основных международных документов Международного союза электросвязи.",
+      "fromZero": "Конвенция ITU — один из основных международных документов Международного союза электросвязи. Вместе с Уставом и административными регламентами она задаёт обязательства государств в области электросвязи.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №37: «Как Регламентом радиосвязи Международного союза электросвязи определена Администрация связи?»",
+      "relatedQuestionNumbers": [
+        37
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "конденсатор",
+      "shortDefinition": "Конденсатор состоит из двух проводящих обкладок, разделённых диэлектриком, и запасает энергию в электрическом поле.",
+      "fromZero": "Конденсатор состоит из двух проводящих обкладок, разделённых диэлектриком, и запасает энергию в электрическом поле. Его ёмкостное сопротивление XC=1/(2πfC) уменьшается при росте частоты, поэтому он по-разному ведёт себя для постоянного и переменного тока.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №241: «Каковы основные характеристики качества диэлектрика?»",
+      "relatedQuestionNumbers": [
+        241,
+        251,
+        252,
+        260,
+        276,
+        278,
+        279,
+        280,
+        293,
+        294,
+        305,
+        308,
+        309,
+        314,
+        317,
+        318,
+        324,
+        325,
+        329,
+        340
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "контрольный номер",
+      "shortDefinition": "Контрольный номер в радиоспортивном соревновании — условленная последовательность данных, которой станции обмениваются для зачёта связи.",
+      "fromZero": "Контрольный номер в радиоспортивном соревновании — условленная последовательность данных, которой станции обмениваются для зачёта связи. Это спортивная служебная информация и в экзаменационном контексте не считается запрещённым шифрованием смысла сообщения.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №2: «В каких случаях любительская радиостанция может передавать кодированные сообщения?»",
+      "relatedQuestionNumbers": [
+        2
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "корреспондент",
+      "shortDefinition": "Корреспондент — оператор/станция на другом конце конкретной радиосвязи.",
+      "fromZero": "Корреспондент — оператор/станция на другом конце конкретной радиосвязи. Если вы вызываете RA3XYZ и он вам отвечает, RA3XYZ — ваш корреспондент.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №15: «Что обозначает сокращение «DX»?»",
+      "relatedQuestionNumbers": [
+        15,
+        51,
+        82,
+        83,
+        87,
+        104,
+        107,
+        108,
+        109,
+        112,
+        113,
+        116,
+        158
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "коэффициент усиления",
+      "shortDefinition": "Коэффициент усиления показывает, во сколько раз устройство или антенна увеличивает выбранную величину относительно входа/эталона.",
+      "fromZero": "Коэффициент усиления показывает, во сколько раз устройство или антенна увеличивает выбранную величину относительно входа/эталона. Его можно задавать как отношение или в децибелах; всегда важно понимать, речь о мощности, напряжении или усилении антенны.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №295: «Какое свойство биполярного транзистора характеризуется параметром β (бэта)?»",
+      "relatedQuestionNumbers": [
+        295,
+        301,
+        302,
+        305,
+        330,
+        361,
+        365
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "круглый стол",
+      "shortDefinition": "«Круглый стол» — организованный радиообмен, где несколько станций по очереди общаются на одной частоте.",
+      "fromZero": "«Круглый стол» — организованный радиообмен, где несколько станций по очереди общаются на одной частоте. Участие в таком обмене не даёт права навсегда закрепить частоту за группой.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №38: «Какая из перечисленных любительских радиостанций вправе претендовать на то, что какая-либо из частот будет закреплена за ней постоянно или будет освобождена для ней в какой-то момент времени: радиостанция, у…»",
+      "relatedQuestionNumbers": [
+        38
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "КСВ",
+      "shortDefinition": "КСВ — коэффициент стоячей волны в линии.",
+      "fromZero": "КСВ — коэффициент стоячей волны в линии. Он показывает степень рассогласования линии с нагрузкой: КСВ=1 означает идеальное согласование и отсутствие отражённой волны; чем больше КСВ, тем сильнее отражение.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №184: «Какая линия питания антенны допускает работу с сильно рассогласованной антенной?»",
+      "relatedQuestionNumbers": [
+        184,
+        190,
+        192,
+        193,
+        390,
+        391
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "линейность",
+      "shortDefinition": "Линейность означает, что выход устройства изменяется пропорционально входу и не создаёт лишних комбинационных частот.",
+      "fromZero": "Линейность означает, что выход устройства изменяется пропорционально входу и не создаёт лишних комбинационных частот. Для SSB плохая линейность приводит к интермодуляции и «разбрызгиванию» спектра.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №120: «Зачем при работе через любительский ретранслятор, установленный на спутнике, необходимо контролировать излучаемую мощность своей радиостанции?»",
+      "relatedQuestionNumbers": [
+        120,
+        356,
+        406,
+        407,
+        408,
+        423
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "любительская служба",
+      "shortDefinition": "Любительская служба — радиослужба для самообучения, технических исследований и некоммерческого общения допущенных радиолюбителей.",
+      "fromZero": "Любительская служба — радиослужба для самообучения, технических исследований и некоммерческого общения допущенных радиолюбителей. Её смысл — личный интерес и эксперимент, а не платная передача сообщений.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №1: «С какими радиостанциями может проводить радиосвязи любительская станция, если она НЕ участвует в проведении аварийно-спасательных работ?»",
+      "relatedQuestionNumbers": [
+        1,
+        4,
+        35,
+        36,
+        49,
+        50,
+        51,
+        52,
+        54,
+        56,
+        57,
+        59,
+        64,
+        65,
+        68,
+        69,
+        71,
+        72,
+        73,
+        74
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "любительская спутниковая служба",
+      "shortDefinition": "Любительская спутниковая служба использует любительские станции на космических аппаратах для связи/экспериментов радиолюбителей.",
+      "fromZero": "Любительская спутниковая служба использует любительские станции на космических аппаратах для связи/экспериментов радиолюбителей. Спутниковый ретранслятор принимает сигнал с Земли и передаёт его обратно в другой участок частот.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №49: «Для каких целей предназначена любительская и любительская спутниковая службы в Российской Федерации?»",
+      "relatedQuestionNumbers": [
+        49
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "материальная выгода",
+      "shortDefinition": "Материальная выгода — денежная или иная коммерческая польза от радиообмена.",
+      "fromZero": "Материальная выгода — денежная или иная коммерческая польза от радиообмена. Любительская служба по определению не предназначена для оказания платных услуг связи.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №36: «Как Регламентом радиосвязи Международного союза электросвязи определены лица, допущенные к любительской службе?»",
+      "relatedQuestionNumbers": [
+        36
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "метеорное рассеяние",
+      "shortDefinition": "Метеорное рассеяние использует короткоживущие ионизированные следы метеоров в верхней атмосфере.",
+      "fromZero": "Метеорное рассеяние использует короткоживущие ионизированные следы метеоров в верхней атмосфере. УКВ-сигнал может на несколько секунд отразиться/рассеяться от такого следа и позволить связь далеко за обычным радиогоризонтом.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №195: «Какие механизмы дальнего распространения присущи ультракоротким радиоволнам?»",
+      "relatedQuestionNumbers": [
+        195,
+        237
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "модуляция",
+      "shortDefinition": "Модуляция — способ «посадить» информацию на высокочастотную несущую, изменяя один из её параметров.",
+      "fromZero": "Модуляция — способ «посадить» информацию на высокочастотную несущую, изменяя один из её параметров. В AM меняют амплитуду, в FM — частоту, в PM — фазу.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №88: «Какая полоса частот двухметрового диапазона предназначена для работы частотной модуляцией (FM) без использования наземных ретрансляторов и радиолюбительских спутников?»",
+      "relatedQuestionNumbers": [
+        88,
+        111,
+        132,
+        133,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        146,
+        147,
+        148,
+        149,
+        152,
+        164,
+        166,
+        180,
+        217
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "мощность",
+      "shortDefinition": "Мощность — скорость передачи или преобразования энергии.",
+      "fromZero": "Мощность — скорость передачи или преобразования энергии. В электрической цепи постоянного тока P=U·I; измеряется в ваттах. В радио мощность передатчика — лишь один из факторов уровня сигнала вместе с антенной и потерями.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №56: «Какой максимальной мощностью разрешено производить передачи любительским радиостанциям четвертой категории?»",
+      "relatedQuestionNumbers": [
+        56,
+        71,
+        93,
+        103,
+        104,
+        120,
+        126,
+        127,
+        143,
+        153,
+        160,
+        161,
+        164,
+        165,
+        173,
+        191,
+        194,
+        199,
+        205,
+        217
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "МПЧ",
+      "shortDefinition": "МПЧ — обычно обозначение микросхемы/тракта промежуточной частоты в конкретном учебном контексте.",
+      "fromZero": "МПЧ — обычно обозначение микросхемы/тракта промежуточной частоты в конкретном учебном контексте. Промежуточная частота — фиксированная частота после смесителя, на которой удобно выполнять основную фильтрацию и усиление.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №233: «Какие из перечисленных явлений связаны с распространением радиоволн и зависят от состояния Солнца?»",
+      "relatedQuestionNumbers": [
+        233,
+        235
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "мёртвая зона",
+      "shortDefinition": "Мёртвая зона при ионосферном распространении — область между концом наземной волны и первым местом возврата пространственной волны, где сигнал может быть очень слабым.",
+      "fromZero": "Мёртвая зона при ионосферном распространении — область между концом наземной волны и первым местом возврата пространственной волны, где сигнал может быть очень слабым. Она зависит от частоты и состояния ионосферы.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №234: «Какие факторы при распространении радиоволн влияют на образование «мёртвой зоны»?»",
+      "relatedQuestionNumbers": [
+        234
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "напряжение",
+      "shortDefinition": "Напряжение U — разность электрических потенциалов между двумя точками; грубая аналогия — «электрический напор», который может заставить ток течь через сопротивление.",
+      "fromZero": "Напряжение U — разность электрических потенциалов между двумя точками; грубая аналогия — «электрический напор», который может заставить ток течь через сопротивление. Измеряется в вольтах.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №161: «Что отображается на индикаторе радиостанции, имеющем обозначение «PWR» («POWER», «Po»)?»",
+      "relatedQuestionNumbers": [
+        161,
+        192,
+        201,
+        207,
+        208,
+        241,
+        245,
+        246,
+        247,
+        248,
+        249,
+        252,
+        254,
+        267,
+        268,
+        276,
+        277,
+        284,
+        285,
+        286
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "национальная лицензия",
+      "shortDefinition": "Национальная радиолюбительская лицензия/разрешительный документ выдаётся по правилам конкретной страны и определяет право работать в её юрисдикции.",
+      "fromZero": "Национальная радиолюбительская лицензия/разрешительный документ выдаётся по правилам конкретной страны и определяет право работать в её юрисдикции. CEPT помогает взаимному признанию, но не отменяет национальное регулирование.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №24: «В каком документе содержатся сведения о том, в соответствии с какой национальной радиолюбительской лицензией может осуществлять передачи владелец полной или Novice - лицензии СЕРТ в стране пребывания? Как на…»",
+      "relatedQuestionNumbers": [
+        24,
+        27,
+        32
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "национальный экзамен",
+      "shortDefinition": "Национальный экзамен проводит администрация или уполномоченная структура конкретной страны.",
+      "fromZero": "Национальный экзамен проводит администрация или уполномоченная структура конкретной страны. Даже гармонизированный HAREC получается через национальный экзамен по согласованной программе, а не через единый «международный экзаменационный центр».",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №34: «Может ли гражданин России сдать экзамен на получение гармонизированного радиолюбительского экзаменационного сертификата HAREC за пределами России?»",
+      "relatedQuestionNumbers": [
+        34
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "нерезидент",
+      "shortDefinition": "Нерезидент в этих вопросах — человек, временно находящийся в стране, но не являющийся её обычным резидентом.",
+      "fromZero": "Нерезидент в этих вопросах — человек, временно находящийся в стране, но не являющийся её обычным резидентом. Для приезжего радиолюбителя CEPT может устанавливать временный порядок работы.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №20: «В течение какого времени радиооператор любительской радиостанции, нерезидент, обладатель полной или Novice - лицензии СЕРТ может осуществлять передачи с территории России без получения разрешительных докумен…»",
+      "relatedQuestionNumbers": [
+        20
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "несущая",
+      "shortDefinition": "Несущая — высокочастотное синусоидальное колебание, параметры которого изменяют при модуляции.",
+      "fromZero": "Несущая — высокочастотное синусоидальное колебание, параметры которого изменяют при модуляции. Без модуляции это одна частота; информация появляется в боковых составляющих/изменениях амплитуды, частоты или фазы.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №131: «Как обозначается вид работы «телеграф»?»",
+      "relatedQuestionNumbers": [
+        131,
+        133,
+        138,
+        139,
+        140,
+        141,
+        143,
+        146,
+        147,
+        148,
+        149,
+        164,
+        165,
+        176,
+        217,
+        218,
+        340,
+        343,
+        394
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "облучатель",
+      "shortDefinition": "Облучатель — небольшая антенна в фокусе параболического отражателя.",
+      "fromZero": "Облучатель — небольшая антенна в фокусе параболического отражателя. Он освещает «тарелку» при передаче и собирает сфокусированную ею энергию при приёме.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №364: «Из каких составных частей состоит зеркальная антенна с параболическим рефлектором?»",
+      "relatedQuestionNumbers": [
+        364
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "обучение",
+      "shortDefinition": "Обучение в любительской службе позволяет человеку получать практические навыки работы в эфире под контролем квалифицированного оператора, если это предусмотрено правилами.",
+      "fromZero": "Обучение в любительской службе позволяет человеку получать практические навыки работы в эфире под контролем квалифицированного оператора, если это предусмотрено правилами. Контролирующий оператор отвечает за соблюдение условий работы.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №17: «Разрешается ли допуск на любительскую радиостанцию лица, не имеющего квалификацию или имеющего квалификацию более низкой категории?»",
+      "relatedQuestionNumbers": [
+        17
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "операционный усилитель",
+      "shortDefinition": "Операционный усилитель (ОУ) — усилительный элемент с двумя входами, усиливающий разность напряжений между ними.",
+      "fromZero": "Операционный усилитель (ОУ) — усилительный элемент с двумя входами, усиливающий разность напряжений между ними. В идеальной модели его усиление без обратной связи бесконечно, входное сопротивление бесконечно, а выходное — нулевое; реальные ОУ лишь приближаются к этому.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №300: «Какую функцию выполняет операционный усилитель?»",
+      "relatedQuestionNumbers": [
+        300,
+        301,
+        302,
+        303,
+        304,
+        305
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "осциллограф",
+      "shortDefinition": "Осциллограф рисует напряжение как функцию времени.",
+      "fromZero": "Осциллограф рисует напряжение как функцию времени. По экрану можно увидеть форму синусоиды, импульсы, период, амплитуду и искажения вроде клиппинга.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №406: «На каком из рисунков изображена правильная схема проверки линейности однополосного передатчика (трансивера) с применением звукового двухтонального генератора?»",
+      "relatedQuestionNumbers": [
+        406
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "отражённая волна",
+      "shortDefinition": "Отражённая волна возникает в линии передачи, когда нагрузка не согласована с её волновым сопротивлением.",
+      "fromZero": "Отражённая волна возникает в линии передачи, когда нагрузка не согласована с её волновым сопротивлением. Часть энергии не поглощается нагрузкой и идёт обратно к передатчику, создавая вместе с прямой волной стоячую волну.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №153: «В каком режиме работы радиостанции есть высокая вероятность выхода из строя выходного каскада?»",
+      "relatedQuestionNumbers": [
+        153,
+        192,
+        193,
+        195,
+        197,
+        220,
+        221,
+        227,
+        230,
+        231,
+        237,
+        269,
+        361,
+        364,
+        374,
+        390,
+        391
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "параболическая антенна",
+      "shortDefinition": "Параболическая антенна использует отражатель формы параболоида, чтобы собрать энергию в фокусе или направить её узким лучом.",
+      "fromZero": "Параболическая антенна использует отражатель формы параболоида, чтобы собрать энергию в фокусе или направить её узким лучом. Чем больше диаметр относительно длины волны, тем выше усиление и уже диаграмма.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №361: «Какова зависимость коэффициента усиления антенны с параболическим отражателем от диаметра отражателя при неизменной рабочей частоте?»",
+      "relatedQuestionNumbers": [
+        361,
+        364
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "первичная основа",
+      "shortDefinition": "Радиослужба на первичной основе имеет более высокий статус защиты на выделенном диапазоне: вторичные службы не должны создавать ей вредных помех.",
+      "fromZero": "Радиослужба на первичной основе имеет более высокий статус защиты на выделенном диапазоне: вторичные службы не должны создавать ей вредных помех. Это не означает абсолютное «владение» каждой частотой, но приоритет выше вторичной основы.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №3: «Разрешено ли радиостанции любительской службы создание преднамеренных помех другим радиостанциям?»",
+      "relatedQuestionNumbers": [
+        3,
+        6,
+        47,
+        48
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "период",
+      "shortDefinition": "Период T — время одного полного цикла колебания.",
+      "fromZero": "Период T — время одного полного цикла колебания. Частота f показывает число циклов в секунду, поэтому T=1/f.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №84: «Какой минимальный объём информации фиксируется в аппаратном журнале любительского ретранслятора или радиомаяка?»",
+      "relatedQuestionNumbers": [
+        84,
+        92,
+        128,
+        144,
+        209,
+        236,
+        263,
+        264,
+        265,
+        266,
+        326,
+        327,
+        392,
+        394,
+        403
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "позывной",
+      "shortDefinition": "Позывной — уникальная комбинация букв и цифр, по которой станцию узнают в эфире.",
+      "fromZero": "Позывной — уникальная комбинация букв и цифр, по которой станцию узнают в эфире. Он не является никнеймом на выбор: его структура и выдача определяются правилами.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №11: «Какой из перечисленных позывных сигналов образован для любительской службы?»",
+      "relatedQuestionNumbers": [
+        11,
+        12,
+        13,
+        19,
+        21,
+        22,
+        23,
+        29,
+        30,
+        54,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "поляризация",
+      "shortDefinition": "Поляризация описывает направление электрического поля радиоволны.",
+      "fromZero": "Поляризация описывает направление электрического поля радиоволны. У вертикальной антенны поле обычно вертикально, у горизонтального диполя — горизонтально; несовпадение поляризаций на УКВ может дать большие потери.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №262: «Какие виды поляризации имеют радиоволны?»",
+      "relatedQuestionNumbers": [
+        262,
+        363,
+        366,
+        367,
+        368,
+        373
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "префикс",
+      "shortDefinition": "Префикс — начальная часть позывного до индивидуального суффикса; он обычно указывает страну/серию и может включать цифру района.",
+      "fromZero": "Префикс — начальная часть позывного до индивидуального суффикса; он обычно указывает страну/серию и может включать цифру района. Например в UA3ABC префиксная часть помогает определить национальную принадлежность.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №11: «Какой из перечисленных позывных сигналов образован для любительской службы?»",
+      "relatedQuestionNumbers": [
+        11,
+        12,
+        60,
+        70
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "префикс страны",
+      "shortDefinition": "Префикс страны — международно назначенная буквенно-цифровая серия, по которой определяется страна радиостанции.",
+      "fromZero": "Префикс страны — международно назначенная буквенно-цифровая серия, по которой определяется страна радиостанции. При временной CEPT-работе префикс страны пребывания может добавляться перед домашним позывным через `/`.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №21: «Какой позывной сигнал должен передавать радиолюбитель, осуществляющий передачи при посещении страны, присоединившейся к рекомендациям СЕРТ T/R 61-01 и ЕСС(05)06 ?»",
+      "relatedQuestionNumbers": [
+        21
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "приложение 2",
+      "shortDefinition": "«Приложение 2» в вопросах CEPT — таблица/часть рекомендации, где исторически приводились соответствия национальных классов лицензий.",
+      "fromZero": "«Приложение 2» в вопросах CEPT — таблица/часть рекомендации, где исторически приводились соответствия национальных классов лицензий. На экзамене важно помнить указанную в банке ссылку; для реальной работы актуальную редакцию документов нужно проверять отдельно.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №24: «В каком документе содержатся сведения о том, в соответствии с какой национальной радиолюбительской лицензией может осуществлять передачи владелец полной или Novice - лицензии СЕРТ в стране пребывания? Как на…»",
+      "relatedQuestionNumbers": [
+        24
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "противовес",
+      "shortDefinition": "Противовес/радиал у четвертьволновой вертикальной антенны создаёт путь возвратного ВЧ-тока и электрически заменяет отсутствующую вторую половину диполя.",
+      "fromZero": "Противовес/радиал у четвертьволновой вертикальной антенны создаёт путь возвратного ВЧ-тока и электрически заменяет отсутствующую вторую половину диполя. Несколько радиалов также помогают сформировать стабильный импеданс и диаграмму.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №360: «Каково назначение противовесов вертикальной четвертьволновой антенны?»",
+      "relatedQuestionNumbers": [
+        360
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "ПЧ",
+      "shortDefinition": "ПЧ — промежуточная частота: фиксированная частота, на которую смеситель переносит принятый сигнал.",
+      "fromZero": "ПЧ — промежуточная частота: фиксированная частота, на которую смеситель переносит принятый сигнал. На одной ПЧ проще сделать хороший узкий фильтр и усилитель для всех настраиваемых входных частот.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №172: «Какой фильтр в тракте промежуточной частоты радиостанции лучше всего подходит для приёма сигналов в режиме SSB?»",
+      "relatedQuestionNumbers": [
+        172,
+        178,
+        341,
+        342,
+        347,
+        348,
+        395,
+        396
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "радиал",
+      "shortDefinition": "Радиал — проводник, отходящий от основания вертикальной антенны и работающий как противовес/часть ВЧ-земли.",
+      "fromZero": "Радиал — проводник, отходящий от основания вертикальной антенны и работающий как противовес/часть ВЧ-земли. Набор радиалов улучшает путь возвратного тока и эффективность вертикала.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №360: «Каково назначение противовесов вертикальной четвертьволновой антенны?»",
+      "relatedQuestionNumbers": [
+        360
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "радиоаппаратура",
+      "shortDefinition": "Радиоаппаратура — оборудование для генерации, передачи, приёма, преобразования или измерения радиосигналов: трансиверы, усилители, фильтры, измерители и т.",
+      "fromZero": "Радиоаппаратура — оборудование для генерации, передачи, приёма, преобразования или измерения радиосигналов: трансиверы, усилители, фильтры, измерители и т. п.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №26: «Даёт ли полная или Novice - лицензия СЕРТ, право беспрепятственно осуществлять ввоз и вывоз любительской аппаратуры в страны - члены СЕРТ?»",
+      "relatedQuestionNumbers": [
+        26
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "радиомаяк",
+      "shortDefinition": "Радиомаяк — станция, которая односторонне передаёт известный сигнал.",
+      "fromZero": "Радиомаяк — станция, которая односторонне передаёт известный сигнал. По его приёму другие операторы оценивают прохождение радиоволн, состояние диапазона или работу аппаратуры.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №5: «Как называется станция любительской службы, производящая односторонние передачи в целях изучения условий распространения радиоволн?»",
+      "relatedQuestionNumbers": [
+        5
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "радиопомеха",
+      "shortDefinition": "Радиопомеха — нежелательный радиосигнал/шум, ухудшающий приём полезного сигнала.",
+      "fromZero": "Радиопомеха — нежелательный радиосигнал/шум, ухудшающий приём полезного сигнала. Источник может быть другим передатчиком, электроникой, гармониками или природными процессами.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №3: «Разрешено ли радиостанции любительской службы создание преднамеренных помех другим радиостанциям?»",
+      "relatedQuestionNumbers": [
+        3,
+        16
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "радиорегион",
+      "shortDefinition": "Радиорегион ITU — одна из трёх больших географических областей мира, для которых международное распределение частот частично различается.",
+      "fromZero": "Радиорегион ITU — одна из трёх больших географических областей мира, для которых международное распределение частот частично различается. Россия в экзаменационном контексте относится к Региону 1.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №8: «На сколько условных районов разделён земной шар по схеме деления на районы IARU (ITU)?»",
+      "relatedQuestionNumbers": [
+        8
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "радиоуправление",
+      "shortDefinition": "Радиоуправление — передача команд по радио для управления удалённым устройством/моделью/любительской станцией.",
+      "fromZero": "Радиоуправление — передача команд по радио для управления удалённым устройством/моделью/любительской станцией. Команды управления в соответствующем контексте не считаются запрещённым сокрытием смысла.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №2: «В каких случаях любительская радиостанция может передавать кодированные сообщения?»",
+      "relatedQuestionNumbers": [
+        2,
+        5
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "разрешение",
+      "shortDefinition": "Разрешение в радиосвязи — официальный допуск к определённой деятельности: работе станции, использованию позывного, диапазона или параметров.",
+      "fromZero": "Разрешение в радиосвязи — официальный допуск к определённой деятельности: работе станции, использованию позывного, диапазона или параметров. Конкретные права зависят от категории и действующих правил.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №36: «Как Регламентом радиосвязи Международного союза электросвязи определены лица, допущенные к любительской службе?»",
+      "relatedQuestionNumbers": [
+        36
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "рапорт",
+      "shortDefinition": "Рапорт — краткая оценка качества принятого сигнала.",
+      "fromZero": "Рапорт — краткая оценка качества принятого сигнала. В телефонии обычно передают RS: разборчивость 1–5 и силу 1–9; например 59 означает отличную читаемость и сильный сигнал.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №106: «Что следует сделать любительским станциям сразу после обмена позывными и рапортами на вызывной частоте?»",
+      "relatedQuestionNumbers": [
+        106,
+        108,
+        110,
+        111,
+        113
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "распространение радиоволн",
+      "shortDefinition": "Распространение радиоволн — то, как электромагнитная волна идёт от передатчика к приёмнику: по прямой, у поверхности, через ионосферу, отражение/рассеяние и т.",
+      "fromZero": "Распространение радиоволн — то, как электромагнитная волна идёт от передатчика к приёмнику: по прямой, у поверхности, через ионосферу, отражение/рассеяние и т. д. Механизм сильно зависит от частоты и условий среды.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №5: «Как называется станция любительской службы, производящая односторонние передачи в целях изучения условий распространения радиоволн?»",
+      "relatedQuestionNumbers": [
+        5
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "Регион 1",
+      "shortDefinition": "Регион 1 ITU охватывает Европу, Африку и часть прилегающих территорий; в старой формулировке экзаменационного банка сюда также относятся страны бывшего СССР.",
+      "fromZero": "Регион 1 ITU охватывает Европу, Африку и часть прилегающих территорий; в старой формулировке экзаменационного банка сюда также относятся страны бывшего СССР. Частотные планы региона отличаются от Регионов 2 и 3.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №9: «Какие территории входят в первый район IARU (ITU)?»",
+      "relatedQuestionNumbers": [
+        9
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "резонанс",
+      "shortDefinition": "Резонанс LC-контура возникает, когда индуктивное и ёмкостное реактивные сопротивления равны по модулю: XL=XC.",
+      "fromZero": "Резонанс LC-контура возникает, когда индуктивное и ёмкостное реактивные сопротивления равны по модулю: XL=XC. Энергия попеременно переходит между магнитным полем катушки и электрическим полем конденсатора; частота f0=1/(2π√LC).",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №185: «Как можно понизить резонансную частоту дипольной антенны?»",
+      "relatedQuestionNumbers": [
+        185,
+        186,
+        187,
+        294,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        319,
+        369
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "ретранслятор",
+      "shortDefinition": "Ретранслятор принимает радиосигнал на одной частоте и повторно передаёт его на другой, расширяя зону связи портативных/мобильных станций.",
+      "fromZero": "Ретранслятор принимает радиосигнал на одной частоте и повторно передаёт его на другой, расширяя зону связи портативных/мобильных станций. Для работы через него нужно знать входную/выходную частоты и иногда CTCSS.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №5: «Как называется станция любительской службы, производящая односторонние передачи в целях изучения условий распространения радиоволн?»",
+      "relatedQuestionNumbers": [
+        5,
+        84,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        105,
+        116,
+        117,
+        118,
+        119,
+        120,
+        130,
+        154,
+        155
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "рефлектор",
+      "shortDefinition": "Рефлектор — паразитный элемент Yagi позади активного элемента относительно основного направления излучения.",
+      "fromZero": "Рефлектор — паразитный элемент Yagi позади активного элемента относительно основного направления излучения. Обычно он немного длиннее и помогает ослабить излучение назад, усиливая направленность вперёд.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №359: «Как соотносятся друг с другом длины активного элемента (V), директора (D) и рефлектора (R) в трёхэлементной антенне типа «волновой канал»?»",
+      "relatedQuestionNumbers": [
+        359,
+        364
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "рупорная антенна",
+      "shortDefinition": "Рупорная антенна — расширяющийся металлический волновод, который плавно согласует волну внутри волновода со свободным пространством.",
+      "fromZero": "Рупорная антенна — расширяющийся металлический волновод, который плавно согласует волну внутри волновода со свободным пространством. Часто применяется на СВЧ как самостоятельная антенна или облучатель.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №362: «Из каких составных частей состоит рупорная антенна?»",
+      "relatedQuestionNumbers": [
+        362
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "РЭС",
+      "shortDefinition": "РЭС — радиоэлектронное средство: техническое устройство, которое передаёт и/или принимает радиоволны.",
+      "fromZero": "РЭС — радиоэлектронное средство: техническое устройство, которое передаёт и/или принимает радиоволны. В нормативных вопросах это общий термин для радиопередающей/приёмной аппаратуры.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №6: «Может ли станция любительской службы проводить радиосвязи с радиостанциями, не имеющими отношения к любительской службе?»",
+      "relatedQuestionNumbers": [
+        6,
+        18,
+        19
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "самообучение",
+      "shortDefinition": "Самообучение — одна из целей любительской службы: радиолюбитель самостоятельно изучает технику, связь и работу в эфире через практику и эксперименты.",
+      "fromZero": "Самообучение означает, что радиолюбитель сам развивает знания и навыки: изучает аппаратуру и правила, слушает эфир, проводит связи и проверяет технические идеи на практике.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №35: «Как Регламентом радиосвязи Международного союза электросвязи определены цели любительской службы?»",
+      "relatedQuestionNumbers": [
+        35
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "свидетельство об образовании позывного",
+      "shortDefinition": "Свидетельство об образовании позывного сигнала — российский документ, фиксирующий образованный для станции позывной и связанные сведения о квалификации.",
+      "fromZero": "Свидетельство об образовании позывного сигнала — российский документ, фиксирующий образованный для станции позывной и связанные сведения о квалификации. В старом банке его роль сопоставляется с уровнями CEPT.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №18: «Какой российский документ имеет силу полной лицензии СЕРТ?»",
+      "relatedQuestionNumbers": [
+        18
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "сигнал бедствия",
+      "shortDefinition": "Сигнал бедствия сообщает о непосредственной серьёзной опасности и необходимости срочной помощи.",
+      "fromZero": "Сигнал бедствия сообщает о непосредственной серьёзной опасности и необходимости срочной помощи. В телефонии используется MAYDAY, в телеграфии исторически SOS; такие сообщения имеют высший приоритет.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №7: «Если радиооператор любительской радиостанции слышит сигнал бедствия на частоте, на которой он не имеете права осуществлять передачу, что ему разрешено сделать для помощи станции, терпящей бедствие?»",
+      "relatedQuestionNumbers": [
+        7
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "симплекс",
+      "shortDefinition": "Симплекс — станции используют одну частоту и передают по очереди: пока один говорит, другой слушает.",
+      "fromZero": "Симплекс — станции используют одну частоту и передают по очереди: пока один говорит, другой слушает. Это обычная прямая связь без одновременной передачи и приёма.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №88: «Какая полоса частот двухметрового диапазона предназначена для работы частотной модуляцией (FM) без использования наземных ретрансляторов и радиолюбительских спутников?»",
+      "relatedQuestionNumbers": [
+        88
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "смеситель",
+      "shortDefinition": "Смеситель — нелинейный узел, куда подают два сигнала.",
+      "fromZero": "Смеситель — нелинейный узел, куда подают два сигнала. На выходе появляются компоненты суммы и разности их частот; в супергетеродине нужную разность выбирают как промежуточную частоту.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №178: «На функциональной схеме изображён супергетеродинный приёмник. Чем является блок, обозначенный цифрой 2?»",
+      "relatedQuestionNumbers": [
+        178,
+        341,
+        342,
+        346,
+        350
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "согласование",
+      "shortDefinition": "Согласование означает, что источник, линия и нагрузка имеют подходящие импедансы, поэтому энергия передаётся эффективно и отражение мало.",
+      "fromZero": "Согласование означает, что источник, линия и нагрузка имеют подходящие импедансы, поэтому энергия передаётся эффективно и отражение мало. Для 50-омного трансивера обычно стремятся к нагрузке/линии около 50 Ом и КСВ близкому к 1.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №153: «В каком режиме работы радиостанции есть высокая вероятность выхода из строя выходного каскада?»",
+      "relatedQuestionNumbers": [
+        153,
+        184,
+        190,
+        220,
+        269,
+        284,
+        324,
+        390,
+        391
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "сопротивление",
+      "shortDefinition": "Электрическое сопротивление R показывает, насколько элемент препятствует постоянному току.",
+      "fromZero": "Электрическое сопротивление R показывает, насколько элемент препятствует постоянному току. Из закона Ома R=U/I; единица — ом.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №186: «Каково входное сопротивление высоко подвешенного полуволнового диполя на резонансной частоте?»",
+      "relatedQuestionNumbers": [
+        186,
+        187,
+        203,
+        206,
+        207,
+        208,
+        221,
+        222,
+        223,
+        226,
+        242,
+        243,
+        245,
+        246,
+        247,
+        248,
+        269,
+        273,
+        274,
+        277
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "соревнования",
+      "shortDefinition": "Радиоспортивные соревнования — организованные связи по правилам, где участники обмениваются контрольными номерами и набирают очки.",
+      "fromZero": "Радиоспортивные соревнования — организованные связи по правилам, где участники обмениваются контрольными номерами и набирают очки. Соревнование не даёт исключительного права занять частоту.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №38: «Какая из перечисленных любительских радиостанций вправе претендовать на то, что какая-либо из частот будет закреплена за ней постоянно или будет освобождена для ней в какой-то момент времени: радиостанция, у…»",
+      "relatedQuestionNumbers": [
+        38
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "соседний канал",
+      "shortDefinition": "Соседний канал — частота/канал рядом с принимаемым.",
+      "fromZero": "Соседний канал — частота/канал рядом с принимаемым. Хорошая избирательность позволяет принять нужную станцию даже при сильном сигнале на соседнем канале.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №89: «Каков разнос частот приёма и передачи любительского ретранслятора на диапазоне 70 см?»",
+      "relatedQuestionNumbers": [
+        89,
+        172,
+        349,
+        396
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "спектр",
+      "shortDefinition": "Спектр показывает, из каких частотных составляющих состоит сигнал и как распределены их уровни.",
+      "fromZero": "Спектр показывает, из каких частотных составляющих состоит сигнал и как распределены их уровни. Чистая синусоида имеет одну линию, а модулированный сигнал занимает полосу частот.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №52: «Какая организация контролирует выполнение правил и требований любительской службы в России?»",
+      "relatedQuestionNumbers": [
+        52,
+        79,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        146,
+        147,
+        148,
+        149,
+        166,
+        347,
+        356,
+        424
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "специальный позывной",
+      "shortDefinition": "Специальный позывной выдаётся для события, соревнования, памятной даты или специальной станции и может иметь структуру, отличающуюся от обычного повседневного позывного.",
+      "fromZero": "Обычно станция постоянно работает под одним позывным. Для отдельного события, соревнования, памятной даты или специальной станции ей могут временно выдать другой — специальный — позывной, иногда с необычной структурой.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №13: «Какой позывной сигнал не относится к любительской службе?»",
+      "relatedQuestionNumbers": [
+        13
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "СРР",
+      "shortDefinition": "СРР — Союз радиолюбителей России, общероссийская общественная организация радиолюбителей.",
+      "fromZero": "СРР — Союз радиолюбителей России, общероссийская общественная организация радиолюбителей. Это не государственный радиочастотный регулятор, хотя организация участвует в радиолюбительской деятельности, мероприятиях и взаимодействии с профильными структурами.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №10: «На основании рекомендаций какой организации в различных странах Европы и ряде неевропейских стран устанавливаются единые требования к квалификации радиолюбителей?»",
+      "relatedQuestionNumbers": [
+        10
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "стабилитрон",
+      "shortDefinition": "Стабилитрон — диод, специально рассчитанный на стабильную работу в области обратного пробоя.",
+      "fromZero": "Стабилитрон — диод, специально рассчитанный на стабильную работу в области обратного пробоя. Включённый с ограничивающим ток резистором, он помогает поддерживать приблизительно постоянное напряжение.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №292: «Какое свойство стабилитрона, позволяет использовать его в качестве стабилизатора напряжения?»",
+      "relatedQuestionNumbers": [
+        292
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "супергетеродин",
+      "shortDefinition": "Супергетеродинный приёмник переносит выбранную входную частоту на фиксированную промежуточную частоту с помощью смесителя и гетеродина.",
+      "fromZero": "Супергетеродинный приёмник переносит выбранную входную частоту на фиксированную промежуточную частоту с помощью смесителя и гетеродина. После этого фильтрацию и усиление удобно выполнять на одной и той же ПЧ независимо от станции.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №177: «На функциональной схеме изображён супергетеродинный приёмник. Чем является блок, обозначенный цифрой 1?»",
+      "relatedQuestionNumbers": [
+        177,
+        178,
+        179,
+        180,
+        341,
+        342,
+        343,
+        344,
+        395,
+        396
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "суффикс",
+      "shortDefinition": "Суффикс — конечная буквенная часть радиолюбительского позывного, индивидуализирующая станцию внутри префиксной серии.",
+      "fromZero": "Суффикс — конечная буквенная часть радиолюбительского позывного, индивидуализирующая станцию внутри префиксной серии. Например в условном UA3ABC суффикс — ABC.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №11: «Какой из перечисленных позывных сигналов образован для любительской службы?»",
+      "relatedQuestionNumbers": [
+        11,
+        12,
+        60,
+        65,
+        69
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "таможенные правила",
+      "shortDefinition": "Таможенные правила регулируют ввоз и вывоз оборудования через границу.",
+      "fromZero": "Таможенные правила регулируют ввоз и вывоз оборудования через границу. Радиолюбительская лицензия CEPT разрешает радиоработу при выполнении её условий, но сама по себе не отменяет требования таможни.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №26: «Даёт ли полная или Novice - лицензия СЕРТ, право беспрепятственно осуществлять ввоз и вывоз любительской аппаратуры в страны - члены СЕРТ?»",
+      "relatedQuestionNumbers": [
+        26
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "телеметрия",
+      "shortDefinition": "Телеметрия — автоматическая передача измеренных параметров удалённого объекта: напряжений, температуры, положения спутника и т.",
+      "fromZero": "Телеметрия — автоматическая передача измеренных параметров удалённого объекта: напряжений, температуры, положения спутника и т. п. Получатель принимает данные, не обязательно ведя обычный разговор с устройством.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №2: «В каких случаях любительская радиостанция может передавать кодированные сообщения?»",
+      "relatedQuestionNumbers": [
+        2
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "температурная инверсия",
+      "shortDefinition": "Температурная инверсия — слой атмосферы, где температура с высотой ведёт себя необычно и меняет профиль показателя преломления.",
+      "fromZero": "Температурная инверсия — слой атмосферы, где температура с высотой ведёт себя необычно и меняет профиль показателя преломления. На УКВ/СВЧ это может образовать тропосферные каналы и дать связь далеко за обычным горизонтом.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №195: «Какие механизмы дальнего распространения присущи ультракоротким радиоволнам?»",
+      "relatedQuestionNumbers": [
+        195,
+        196,
+        200
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "технические исследования",
+      "shortDefinition": "Технические исследования — эксперименты с антеннами, схемами, видами модуляции, распространением и другими радиотехническими явлениями.",
+      "fromZero": "Технические исследования — эксперименты с антеннами, схемами, видами модуляции, распространением и другими радиотехническими явлениями. Это одна из официальных целей любительской службы.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №35: «Как Регламентом радиосвязи Международного союза электросвязи определены цели любительской службы?»",
+      "relatedQuestionNumbers": [
+        35
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "ток",
+      "shortDefinition": "Электрический ток I — направленное движение электрического заряда.",
+      "fromZero": "Электрический ток I — направленное движение электрического заряда. Его величина показывает, сколько заряда проходит за единицу времени; измеряется в амперах.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №183: «Какая линия питания антенны излучает меньше других?»",
+      "relatedQuestionNumbers": [
+        183,
+        202,
+        204,
+        205,
+        207,
+        208,
+        209,
+        210,
+        230,
+        242,
+        243,
+        244,
+        245,
+        247,
+        248,
+        249,
+        251,
+        254,
+        255,
+        256
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "транзистор",
+      "shortDefinition": "Транзистор — полупроводниковый прибор, позволяющий небольшим управляющим сигналом контролировать больший ток или напряжение.",
+      "fromZero": "Транзистор — полупроводниковый прибор, позволяющий небольшим управляющим сигналом контролировать больший ток или напряжение. У биполярного транзистора есть база, коллектор и эмиттер; изменение тока базы управляет током коллектора, поэтому транзистор может усиливать и переключать сигналы.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №295: «Какое свойство биполярного транзистора характеризуется параметром β (бэта)?»",
+      "relatedQuestionNumbers": [
+        295,
+        296
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "транспондер",
+      "shortDefinition": "Транспондер принимает сигнал в одной полосе частот и одновременно переносит/ретранслирует его в другую полосу.",
+      "fromZero": "Транспондер принимает сигнал в одной полосе частот и одновременно переносит/ретранслирует его в другую полосу. На любительском спутнике через один линейный транспондер могут работать несколько станций в пределах его полосы.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №120: «Зачем при работе через любительский ретранслятор, установленный на спутнике, необходимо контролировать излучаемую мощность своей радиостанции?»",
+      "relatedQuestionNumbers": [
+        120
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "третья категория",
+      "shortDefinition": "Третья квалификационная категория — один из уровней российского радиолюбителя в старом экзаменационном банке.",
+      "fromZero": "Третья квалификационная категория — один из уровней российского радиолюбителя в старом экзаменационном банке. Её права уже шире четвёртой, но меньше первой/второй; в вопросах CEPT она связана с уровнем Novice/ARNEC.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №19: «Какой российский документ имеет силу лицензии СЕРТ новичка (Novice)?»",
+      "relatedQuestionNumbers": [
+        19
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "туннельный диод",
+      "shortDefinition": "Туннельный диод — специальный сильно легированный диод с участком отрицательного дифференциального сопротивления на вольт-амперной характеристике.",
+      "fromZero": "Туннельный диод — специальный сильно легированный диод с участком отрицательного дифференциального сопротивления на вольт-амперной характеристике. Благодаря этому он может поддерживать генерацию или усиливать на очень высоких частотах.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №289: «Каково основное свойство туннельного диода, отличает его от диодов других типов?»",
+      "relatedQuestionNumbers": [
+        289,
+        290
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "УВЧ",
+      "shortDefinition": "УВЧ — усилитель высокой частоты на входе приёмника.",
+      "fromZero": "УВЧ — усилитель высокой частоты на входе приёмника. Он усиливает слабый принятый радиосигнал до смесителя; чрезмерное усиление при сильных сигналах может привести к перегрузке.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №177: «На функциональной схеме изображён супергетеродинный приёмник. Чем является блок, обозначенный цифрой 1?»",
+      "relatedQuestionNumbers": [
+        177,
+        345
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "УНЧ",
+      "shortDefinition": "УНЧ — усилитель низкой (звуковой) частоты.",
+      "fromZero": "УНЧ — усилитель низкой (звуковой) частоты. Он усиливает уже выделенный аудиосигнал после детектора, чтобы получить достаточную мощность для динамика или наушников.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №348: «Каково назначение усилителя промежуточной частоты радиоприёмника?»",
+      "relatedQuestionNumbers": [
+        348
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "управляющий оператор",
+      "shortDefinition": "Управляющий оператор — квалифицированный оператор, под непосредственным контролем которого другой человек может обучаться работе на станции.",
+      "fromZero": "Управляющий оператор — квалифицированный оператор, под непосредственным контролем которого другой человек может обучаться работе на станции. Он отвечает за соблюдение правил передачи.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №17: «Разрешается ли допуск на любительскую радиостанцию лица, не имеющего квалификацию или имеющего квалификацию более низкой категории?»",
+      "relatedQuestionNumbers": [
+        17
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "УПЧ",
+      "shortDefinition": "УПЧ — усилитель промежуточной частоты.",
+      "fromZero": "УПЧ — усилитель промежуточной частоты. Он усиливает сигнал уже после преобразования частоты; основные фильтры ПЧ обеспечивают нужную полосу и избирательность.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №343: «На каком из рисунков изображена структурная схема супергетеродинного приёмника для приёма однополосных сигналов?»",
+      "relatedQuestionNumbers": [
+        343,
+        344,
+        348
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "Устав ITU",
+      "shortDefinition": "Устав ITU — основной учредительный документ Международного союза электросвязи.",
+      "fromZero": "Устав ITU — основной учредительный документ Международного союза электросвязи. Вместе с Конвенцией и радиорегламентом он формирует международную правовую основу электросвязи.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №37: «Как Регламентом радиосвязи Международного союза электросвязи определена Администрация связи?»",
+      "relatedQuestionNumbers": [
+        37
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "фаза",
+      "shortDefinition": "Фаза показывает, в какой точке периодического цикла находится колебание.",
+      "fromZero": "Фаза показывает, в какой точке периодического цикла находится колебание. Два синусоидальных сигнала одинаковой частоты могут идти вместе (0°), в противофазе (180°) или с любым другим фазовым сдвигом.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №141: «Как графически изображается спектр сигнала при частотной (фазовой) модуляции?»",
+      "relatedQuestionNumbers": [
+        141,
+        142,
+        236,
+        265,
+        339,
+        355,
+        412
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "фазовый детектор",
+      "shortDefinition": "Фазовый детектор сравнивает фазы двух сигналов и выдаёт напряжение/код ошибки, зависящий от их разности фаз.",
+      "fromZero": "Фазовый детектор сравнивает фазы двух сигналов и выдаёт напряжение/код ошибки, зависящий от их разности фаз. В ФАПЧ этот сигнал управляет генератором так, чтобы петля удерживала нужную частоту/фазу.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №338: «Какие основные компоненты используются в петле фазовой автоподстройки частоты?»",
+      "relatedQuestionNumbers": [
+        338
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "ФАПЧ",
+      "shortDefinition": "ФАПЧ/PLL — замкнутая система автоматической подстройки фазы и частоты.",
+      "fromZero": "ФАПЧ/PLL — замкнутая система автоматической подстройки фазы и частоты. Фазовый детектор сравнивает опорный сигнал с обратной связью, фильтр сглаживает ошибку, а управляемый генератор меняет частоту до установления синхронизации.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №338: «Какие основные компоненты используются в петле фазовой автоподстройки частоты?»",
+      "relatedQuestionNumbers": [
+        338,
+        339,
+        355
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "фидер",
+      "shortDefinition": "Фидер — линия передачи ВЧ-энергии между передатчиком/приёмником и антенной.",
+      "fromZero": "Фидер — линия передачи ВЧ-энергии между передатчиком/приёмником и антенной. Это может быть коаксиальный кабель, симметричная линия или волновод; у фидера есть волновое сопротивление и потери.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №181: «Что из перечисленного пригодно для работы в качестве линии питания антенны?»",
+      "relatedQuestionNumbers": [
+        181,
+        191,
+        220,
+        221,
+        391,
+        393
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "фильтр",
+      "shortDefinition": "Электрический фильтр пропускает нужные частоты и ослабляет ненужные.",
+      "fromZero": "Электрический фильтр пропускает нужные частоты и ослабляет ненужные. ФНЧ пропускает низкие, ФВЧ — высокие, полосовой — выбранную полосу, а режекторный подавляет выбранную полосу.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №172: «Какой фильтр в тракте промежуточной частоты радиостанции лучше всего подходит для приёма сигналов в режиме SSB?»",
+      "relatedQuestionNumbers": [
+        172,
+        321,
+        322,
+        323,
+        324,
+        338,
+        340,
+        352,
+        354,
+        355,
+        423
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "частота",
+      "shortDefinition": "Частота f — число полных циклов колебания за одну секунду.",
+      "fromZero": "Частота f — число полных циклов колебания за одну секунду. Единица — герц; 1 кГц = 1000 Гц, 1 МГц = 1 000 000 Гц.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №38: «Какая из перечисленных любительских радиостанций вправе претендовать на то, что какая-либо из частот будет закреплена за ней постоянно или будет освобождена для ней в какой-то момент времени: радиостанция, у…»",
+      "relatedQuestionNumbers": [
+        38,
+        52,
+        72,
+        75,
+        79,
+        82,
+        83,
+        88,
+        89,
+        90,
+        91,
+        101,
+        103,
+        105,
+        106,
+        122,
+        123,
+        130,
+        132,
+        137
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "четвёртая категория",
+      "shortDefinition": "Четвёртая категория — начальный/наиболее ограниченный уровень в старом российском экзаменационном банке.",
+      "fromZero": "Четвёртая категория — начальный/наиболее ограниченный уровень в старом российском экзаменационном банке. Для неё предусмотрены меньшая мощность и более узкие права по диапазонам по сравнению с более высокими категориями.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №25: «Может ли обладатель Свидетельства об образовании позывного сигнала опознавания четвёртой квалификационной категории осуществлять передачи из стран пребывания, присоединившихся к рекомендациям СЕРТ T/R 61-01…»",
+      "relatedQuestionNumbers": [
+        25
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "чувствительность",
+      "shortDefinition": "Чувствительность приёмника показывает, насколько слабый сигнал он способен принять с заданным качеством.",
+      "fromZero": "Чувствительность приёмника показывает, насколько слабый сигнал он способен принять с заданным качеством. Меньший требуемый входной уровень обычно означает лучшую чувствительность; на практике предел задают собственные шумы.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №345: «Каково назначение усилителя высокой частоты радиоприёмника?»",
+      "relatedQuestionNumbers": [
+        345,
+        351,
+        398
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "шумовая температура",
+      "shortDefinition": "Шумовая температура — способ выразить собственный шум устройства как эквивалентную температуру источника теплового шума.",
+      "fromZero": "Шумовая температура — способ выразить собственный шум устройства как эквивалентную температуру источника теплового шума. Чем ниже шумовая температура приёмной системы, тем легче обнаруживать очень слабые сигналы.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №374: «На каких диапазонах российские радиооператоры могут проводить радиосвязи с отражением от Луны?»",
+      "relatedQuestionNumbers": [
+        374,
+        398
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "эквивалент нагрузки",
+      "shortDefinition": "Эквивалент нагрузки (dummy load) — безызлучательная ВЧ-нагрузка с нужным сопротивлением, обычно 50 Ом.",
+      "fromZero": "Эквивалент нагрузки (dummy load) — безызлучательная ВЧ-нагрузка с нужным сопротивлением, обычно 50 Ом. Она принимает мощность передатчика и превращает её в тепло, позволяя безопасно настраивать/измерять передатчик без выхода в эфир.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №226: «Что представляет из себя «эквивалент нагрузки» радиостанции?»",
+      "relatedQuestionNumbers": [
+        226,
+        406,
+        422
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "эмиттер",
+      "shortDefinition": "Эмиттер — вывод биполярного транзистора, через который носители заряда входят/выходят из активной области.",
+      "fromZero": "Эмиттер — вывод биполярного транзистора, через который носители заряда входят/выходят из активной области. В схеме с общим эмиттером этот вывод является общей точкой для входной и выходной цепей.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №295: «Какое свойство биполярного транзистора характеризуется параметром β (бэта)?»",
+      "relatedQuestionNumbers": [
+        295
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    },
+    {
+      "term": "ёмкость",
+      "shortDefinition": "Ёмкость C показывает, сколько электрического заряда может быть накоплено при данном напряжении: C=Q/U.",
+      "fromZero": "Ёмкость C показывает, сколько электрического заряда может быть накоплено при данном напряжении: C=Q/U. Измеряется в фарадах; большая ёмкость означает больше заряда при том же напряжении.",
+      "radioExample": "В банке это понятие встречается, например, в вопросе №244: «Каков физический смысл емкости гальванического элемента или батареи?»",
+      "relatedQuestionNumbers": [
+        244,
+        276,
+        278,
+        279,
+        293,
+        305,
+        308,
+        309,
+        312,
+        313,
+        325,
+        335,
+        337,
+        389
+      ],
+      "integrationRule": "Preserve an existing stable glossary ID/aliases/relatedTerms/diagramAsset. Replace educational text fields only. If no unique existing entry/alias matches, create a new stable entry from this authored record."
+    }
+  ]
+}

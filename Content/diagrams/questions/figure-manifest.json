@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "renderDPI": 220,
+  "answerKeyExcluded": true,
+  "questions": [
+    {
+      "examNumber": 22,
+      "sourceDocument": "Справочник_КЭ.pdf",
+      "sourcePDFPage": 124,
+      "asset": "diagrams/questions/cept-visit-prefixes.png",
+      "purpose": "Рисунок 1: префиксы ON (Бельгия) и OE (Австрия)",
+      "visuallyInspected": true
+    },
+    {
+      "examNumber": 23,
+      "sourceDocument": "Справочник_КЭ.pdf",
+      "sourcePDFPage": 124,
+      "asset": "diagrams/questions/cept-visit-prefixes.png",
+      "purpose": "Рисунок 1: префиксы ON (Бельгия) и OE (Австрия)",
+      "visuallyInspected": true
+    },
+    {
+      "examNumber": 32,
+      "sourceDocument": "Справочник_КЭ.pdf",
+      "sourcePDFPage": 127,
+      "asset": "diagrams/questions/harec-national-licenses.png",
+      "purpose": "Рисунок 2: бельгийская лицензия класса A для HAREC",
+      "visuallyInspected": true
+    },
+    {
+      "examNumber": 173,
+      "sourceDocument": "Справочник_КЭ.pdf",
+      "sourcePDFPage": 162,
+      "asset": "diagrams/questions/fm-transmitter.png",
+      "purpose": "Общая нейтральная схема FM-передатчика 1 -> 2 -> 4",
+      "visuallyInspected": true
+    },
+    {
+      "examNumber": 174,
+      "sourceDocument": "Справочник_КЭ.pdf",
+      "sourcePDFPage": 162,
+      "asset": "diagrams/questions/fm-transmitter.png",
+      "purpose": "Общая нейтральная схема FM-передатчика 1 -> 2 -> 4",
+      "visuallyInspected": true
+    },
+    {
+      "examNumber": 175,
+      "sourceDocument": "Справочник_КЭ.pdf",
+      "sourcePDFPage": 162,
+      "asset": "diagrams/questions/fm-transmitter.png",
+      "purpose": "Общая нейтральная схема FM-передатчика 1 -> 2 -> 4",
+      "visuallyInspected": true
+    },
+    {
+      "examNumber": 176,
+      "sourceDocument": "Справочник_КЭ.pdf",
+      "sourcePDFPage": 162,
+      "asset": "diagrams/questions/fm-transmitter.png",
+      "purpose": "Общая нейтральная схема FM-передатчика 1 -> 2 -> 4",
+      "visuallyInspected": true
+    },
+    {
+      "examNumber": 177,
+      "sourceDocument": "Справочник_КЭ.pdf",
+      "sourcePDFPage": 163,
+      "asset": "diagrams/questions/superhet-receiver.png",
+      "purpose": "Общая нейтральная схема супергетеродинного приёмника",
+      "visuallyInspected": true
+    },
+    {
+      "examNumber": 178,
+      "sourceDocument": "Справочник_КЭ.pdf",
+      "sourcePDFPage": 163,
+      "asset": "diagrams/questions/superhet-receiver.png",
+      "purpose": "Общая нейтральная схема супергетеродинного приёмника",
+      "visuallyInspected": true
+    },
+    {
+      "examNumber": 179,
+      "sourceDocument": "Справочник_КЭ.pdf",
+      "sourcePDFPage": 163,
+      "asset": "diagrams/questions/superhet-receiver.png",
+      "purpose": "Общая нейтральная схема супергетеродинного приёмника",
+      "visuallyInspected": true
+    },
+    {
+      "examNumber": 180,
+      "sourceDocument": "Справочник_КЭ.pdf",
+      "sourcePDFPage": 163,
+      "asset": "diagrams/questions/superhet-receiver.png",
+      "purpose": "Общая нейтральная схема супергетеродинного приёмника",
+      "visuallyInspected": true
+    }
+  ]
+}
