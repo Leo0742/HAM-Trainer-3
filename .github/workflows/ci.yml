@@ -10,10 +10,18 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
+      - name: Install source-figure renderer
+        run: brew install poppler
       - name: Build exact category-3 content
         run: python3 Tools/build_content.py
+      - name: Regenerate source figures from preserved PDF
+        env:
+          XDG_CACHE_HOME: ${{ runner.temp }}/fontconfig-cache
+        run: python3 Tools/extract_figures.py
       - name: Validate bank, glossary, figure manifest, and assets
         run: python3 Tools/validate_content.py
+      - name: Verify source-figure reproducibility
+        run: git diff --exit-code -- Content/diagrams/questions
       - name: Audit source answer matches
         run: python3 Tools/audit_answer_matches.py
       - name: Audit authored content and source hashes
