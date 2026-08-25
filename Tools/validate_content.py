@@ -11,7 +11,7 @@ from category_profile import BANK_COUNT, EXPECTED_NUMBERS
 
 ROOT = Path(__file__).resolve().parents[1]
 AUTHORED_PATH = ROOT / "ContentAuthored" / "third-category-218-explanations.json"
-AUTHORED_SHA256 = "c438938b5733be90b80eb87b2ec782c952bbff47378b54de9fc23647199044a1"
+AUTHORED_SHA256 = "13c2f3c8d84c43078362399a23a25e5b802bbf4c5ea20778f3ff1373f736f489"
 GLOSSARY_AUTHORED_PATH = ROOT / "ContentAuthored" / "built-in-glossary-176.json"
 GLOSSARY_AUTHORED_SHA256 = "2d3902bb049064066bc71766405237ab7ab39cc7b2b123de249700a1230bc1d3"
 

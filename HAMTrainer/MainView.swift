@@ -312,12 +312,12 @@ struct TopicQuestionReferenceRow: View {
                 .font(.system(size: store.settings.readingSize.answerFontSize, weight: .semibold))
                 .foregroundStyle(.tint)
                 .padding(.leading, 70)
-            if !question.explanationShort.isEmpty {
-                Text(question.explanationShort).font(.callout).foregroundStyle(.secondary).padding(.leading, 70)
-            }
             if expanded {
                 Divider().padding(.leading, 70)
                 VStack(alignment: .leading, spacing: 14) {
+                    if !question.explanationShort.isEmpty {
+                        Text(question.explanationShort).font(.callout).foregroundStyle(.secondary)
+                    }
                     FigureView(asset: question.figureAsset)
                     if question.teachingDiagramAsset != question.figureAsset { FigureView(asset: question.teachingDiagramAsset) }
                     ReferenceDetailsView(question: question, includeOptions: true)
