@@ -634,6 +634,14 @@ struct CoreTestRunner {
             }
         }))
 
+        tests.append(("feeder memory hints match questions 181 and 182", {
+            let questions = try AppStore.decoder.decode([Question].self, from: Data(contentsOf: content.appendingPathComponent("questions.json")))
+            let q181 = questions.first(where: { $0.examNumber == 181 })
+            let q182 = questions.first(where: { $0.examNumber == 182 })
+            try expect(q181?.memoryHint == "Фидер должен быть электрической линией: коаксиальным кабелем или двухпроводной линией.", "question 181 retained unrelated dipole hint")
+            try expect(q182?.memoryHint == "Экранированный коаксиальный кабель можно вести у конструкций и, с подходящей оболочкой, под землёй.", "question 182 retained unrelated vertical hint")
+        }))
+
         tests.append(("all glossary references resolve", {
             let questions = try AppStore.decoder.decode([Question].self, from: Data(contentsOf: content.appendingPathComponent("questions.json")))
             let glossary = try AppStore.decoder.decode([GlossaryEntry].self, from: Data(contentsOf: content.appendingPathComponent("glossary.json")))

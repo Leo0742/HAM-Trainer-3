@@ -9,7 +9,7 @@ Generated: reproducible
 - Fallback-generated educational records: **0**.
 - Unresolved wrong-option mappings: **0**.
 - Unresolved glossary mappings: **0**.
-- Source: `ContentAuthored/third-category-218-explanations.json`; SHA-256 `c438938b5733be90b80eb87b2ec782c952bbff47378b54de9fc23647199044a1`.
+- Source: `ContentAuthored/third-category-218-explanations.json`; SHA-256 `13c2f3c8d84c43078362399a23a25e5b802bbf4c5ea20778f3ff1373f736f489`.
 
 “Authored” means an exact record in the immutable checksum-verified source file. The audit does not assign an automated educational-quality score.
 

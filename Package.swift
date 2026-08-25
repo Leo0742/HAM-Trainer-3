@@ -1,5 +1,25 @@
 // swift-tools-version: 5.10
 import PackageDescription
+import Foundation
+
+let packageRoot = URL(fileURLWithPath: #filePath).deletingLastPathComponent()
+var excludedPaths = [
+    ".github",
+    ".gitignore",
+    "ContentAuthored",
+    "ContentOverrides",
+    "ContentRaw",
+    "ExamSources",
+    "HAMTrainer3.xcodeproj",
+    "HAMTrainer/Info.plist",
+    "README.md",
+    "Tests",
+    "Tools",
+    "docs"
+]
+if FileManager.default.fileExists(atPath: packageRoot.appendingPathComponent("Build").path) {
+    excludedPaths.append("Build")
+}
 
 let package = Package(
     name: "HAMTrainer3",
@@ -9,21 +29,7 @@ let package = Package(
         .executableTarget(
             name: "HAMTrainer3",
             path: ".",
-            exclude: [
-                ".github",
-                ".gitignore",
-                "Build",
-                "ContentAuthored",
-                "ContentOverrides",
-                "ContentRaw",
-                "ExamSources",
-                "HAMTrainer3.xcodeproj",
-                "HAMTrainer/Info.plist",
-                "README.md",
-                "Tests",
-                "Tools",
-                "docs"
-            ],
+            exclude: excludedPaths,
             sources: ["HAMTrainer"],
             resources: [.copy("Content")]
         )
